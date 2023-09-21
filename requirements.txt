@@ -1,0 +1,2 @@
+moviepy
+git+https://github.com/DenisUstinov/foreign-audio-vocab.git
