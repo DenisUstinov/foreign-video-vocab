@@ -1,76 +1,76 @@
 import os
 from typing import List
-from moviepy.editor import AudioFileClip, TextClip, VideoFileClip, concatenate_videoclips
+from moviepy.editor import AudioFileClip
 from moviepy.video.compositing.CompositeVideoClip import CompositeVideoClip
+from moviepy.video.VideoClip import TextClip as MoviePyTextClip
 
 
 class TextToVideoConverter:
     """
-    Класс для создания видео на основе текстовых переводов.
+    Класс для конвертации текста в видео с аудио.
 
-    Параметры:
-    - translations (List[str]): Список переводов в формате 'слово1:слово2'.
-    - mp3_folder (str): Путь к папке с MP3 файлами.
+    Args:
+        translations (List[str]): Список строк, содержащих переводы для создания видео.
+        delay (float): Задержка между текстовыми клипами и аудиофайлами.
+        tmp_dir (str): Директория для временных файлов и аудиофайлов.
+
+    Attributes:
+        translations (List[str]): Список строк с переводами.
+        delay (float): Задержка между текстовыми клипами и аудиофайлами.
+        tmp_dir (str): Директория для временных файлов и аудиофайлов.
     """
 
-    def __init__(self, translations: List[str], mp3_folder: str):
-        """
-        Инициализация класса TextToVideoConverter.
-
-        :param translations: Список переводов в формате 'слово1:слово2'
-        :param mp3_folder: Путь к папке с MP3 файлами
-        """
+    def __init__(self, translations: List[str], delay: float, tmp_dir: str):
         self.translations = translations
-        self.mp3_folder = mp3_folder
+        self.delay = float(delay)
+        self.tmp_dir = tmp_dir
 
-        if not os.path.exists(self.mp3_folder):
-            os.makedirs(self.mp3_folder)
+        if not os.path.exists(self.tmp_dir):
+            os.makedirs(self.tmp_dir)
 
-    def create_single_video(self, word1: str):
+    def create_text_clip_for_word(self, word: str, current_time: float) -> MoviePyTextClip:
         """
-        Создание отдельного видео с текстовым переводом.
+        Создает текстовый клип для заданного слова.
 
-        Параметры:
-        - word1 (str): Английское слово.
-        - word2 (str): Переведенное слово.
+        Args:
+            word (str): Слово, для которого создается текстовый клип.
+            current_time (float): Текущее время в видео для установки начального времени клипа.
+
+        Returns:
+            MoviePyTextClip: Созданный текстовый клип или None, если аудиофайл не найден.
         """
-        word1 = word1.replace(" ", "_")
+        audio_filename = os.path.join(self.tmp_dir, f"{word}.mp3")
+        if not os.path.exists(audio_filename):
+            print(f"Аудио файл для {word} не найден.")
+            return None
 
-        mp3_filename = os.path.join(self.mp3_folder, f"{word1}.mp3")
-        video_filename = os.path.join(self.mp3_folder, f"{word1}.mp4")
+        audioclip = AudioFileClip(audio_filename).subclip(0, AudioFileClip(audio_filename).duration)
 
-        if not os.path.exists(mp3_filename):
-            print(f"MP3 файл для '{word1}' не найден.")
-            return
-
-        audioclip = AudioFileClip(mp3_filename).subclip(0, AudioFileClip(mp3_filename).duration)
-
-        video_resolution = (1920, 1080)  # HD разрешение
-
-        txt_clip = TextClip(word1, fontsize=70, color='white')
-        txt_clip = txt_clip.set_duration(audioclip.duration)
+        txt_clip = MoviePyTextClip(word, fontsize=70, color='white')
+        txt_clip = txt_clip.set_duration(audioclip.duration + self.delay)
         txt_clip = txt_clip.set_audio(audioclip)
-        txt_clip = txt_clip.set_pos('center')  # Разместить текст по центру кадра
+        txt_clip = txt_clip.set_start(current_time)
+        txt_clip = txt_clip.set_position('center')
 
-        # Создать CompositeVideoClip для задания разрешения
-        video_clip = CompositeVideoClip([txt_clip], size=video_resolution)
-
-        video_clip.write_videofile(video_filename, codec='libx264', audio_codec='aac', fps=24)
-
-    def create_videos(self):
-        """Создание отдельных видео для каждого перевода."""
-        for line in self.translations:
-            word1, word2 = line.split(':')
-            self.create_single_video(word1)
+        return txt_clip
 
     def create_combined_video(self):
-        """Создание объединенного видео из отдельных видео."""
-        clips = []
-        for line in self.translations:
-            word1, _ = line.split(':')
-            video_filename = os.path.join(self.mp3_folder, f'{word1.replace(" ", "_")}.mp4')
-            if os.path.exists(video_filename):
-                clips.append(VideoFileClip(video_filename))
+        """
+        Создает общее видео из текстовых клипов и сохраняет его в файл 'combined_video.mp4'.
+        """
+        text_clips = []
+        current_time = 0
 
-        final_clip = concatenate_videoclips(clips)
-        final_clip.write_videofile('combined_video.mp4', codec='libx264', audio_codec='aac', fps=24)
+        for line in self.translations:
+            word = line.split(':')[0]
+            word = word.replace(" ", "_")
+
+            clip = self.create_text_clip_for_word(word, current_time)
+            if clip:
+                text_clips.append(clip)
+
+            current_time += clip.duration if clip else 0
+
+        video_resolution = (1920, 1080)
+        video_clip = CompositeVideoClip(text_clips, size=video_resolution)
+        video_clip.write_videofile('combined_video.mp4', codec='libx264', audio_codec='aac', fps=24)
