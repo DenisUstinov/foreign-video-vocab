@@ -21,38 +21,26 @@ def read_file_lines(filename):
 
 
 if __name__ == "__main__":
-    # Замените 'translations.txt' на путь к вашему файлу с переводами
     input_file = 'translations.txt'
-
-    # Считываем переводы из файла
     translations = read_file_lines(input_file)
 
-    # Параметры для создания экземпляра TextToVoiceConverter
     delimiter = ':'
     langs = 'en:ru'
     delay = 2
-
-    # Создание экземпляра класса TextToVoiceConverter с заданными параметрами и считанными переводами
-    converter_audio = TextToVoiceConverter(translations, delimiter, langs, delay)
-
-    # Параметры для создания экземпляра TextToVideoConverter
-    mp3_folder = 'tmp'  # Папка с мп3 словарями
-
-    # Создание экземпляра класса TextToVoiceConverter с заданными параметрами и считанными переводами
-    converter_video = TextToVideoConverter(translations, mp3_folder)
+    tmp_dir = 'tmp'
+    converter_audio = TextToVoiceConverter(translations, delimiter, langs, delay, tmp_dir)
 
     try:
         converter_audio.process_translations()  # Создание промежуточных аудиофайлов
 
-        converter_video.create_videos()
+        # Создание экземпляра класса TextToVoiceConverter с заданными параметрами и считанными переводами
+        converter_video = TextToVideoConverter(translations, delay, tmp_dir)
         converter_video.create_combined_video()
 
-        converter_audio.remove_old_audio_files()  # Удаление временных файлов
+        # converter_audio.remove_old_audio_files()  # Удаление временных файлов
         print("Обработка завершена.")
     except Exception as e:
         print(f"Произошла ошибка при обработке: {e}")
-
-
 ```
 
 ## Клонирование репозитория
