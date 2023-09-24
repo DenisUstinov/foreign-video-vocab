@@ -1,2942 +1,850 @@
-Ability:Возможность
-Able:Способен
-Absence:Отсутствие
-Absent:Отсутствующий
-Absolute:Абсолютный
-Absolutely:Абсолютно
-Absorb:Поглотить
-Abstract:Абстрактный
-Abstraction:Абстракция
-Accept:Принимать
-Acceptable:Приемлемый
-Accepted:Принят
-Access:Доступ
-Accessible:Доступный
-Accidentally:Случайно
-Accomplish:Достигнуть
-According:Согласно
-Accordingly:Соответственно
-Account:Учетная запись
-Accounting:Учет
-Accumulate:Накапливать
-Accumulator:Аккумулятор
-Accuracy:Точность
-Accurate:Точный
-Accurately:Точно
-Achieve:Достичь
-Acquire:Получить
-Acquired:Полученный
-Act:Действие
-Action:Действие
-Activate:Активировать
-Activation:Активация
-Active:Активный
-Activity:Деятельность
-Actual:Фактический
-Actually:Фактически
-Adapter:Адаптер
-Add:Добавить
-Added:Добавленный
-Addition:Сложение
-Additional:Дополнительный
-Additionally:Дополнительно
-Address:Адрес
-Adequate:Адекватный
-Adjacent:Смежный
-Adjust:Настроить
-Adjustment:Настройка
-Administrative:Административный
-Adopt:Принять
-Advance:Продвижение
-Advanced:Продвинутый
-Advantage:Преимущество
-Adverse:Неблагоприятный
-Advice:Совет
-Advisable:Рекомендуется
-Advisory:Консультативный
-Affect:Влиять
-Affected:Влияющий
-Affecting:Влияющий
-Affine:Аффинный
-Afterward:После
-Again:Снова
-Age:Возраст
-Agent:Агент
-Aggregate:Агрегировать
-Agile:Гибкий
-Ago:Назад
-Agree:Соглашаться
-Ahead:Вперед
-Air:Воздух
-Aka:Также известный как
-Alarm:Сигнализация
-Album:Альбом
-Alert:Предупреждение
-Algorithm:Алгоритм
-Align:Выравнивать
-Alignment:Выравнивание
-Alike:Похожий
-Alive:Живой
-Allocate:Выделить
-Allocation:Выделение
-Allocator:Выделитель
-Allow:Разрешить
-Almost:Почти
-Alone:Один
-Along:Вдоль
-Alongside:Вдоль
-Alpha:Альфа
-Alphabetically:По алфавиту
-Already:Уже
-Also:Также
-Alter:Изменить
-Alternate:Альтернативный
-Alternative:Альтернатива
-Alternatively:В противном случае
-Always:Всегда
-Ambiguity:Неоднозначность
-Ambiguous:Неоднозначный
-Amount:Количество
-Analogous:Аналогичный
-Analysis:Анализ
-Analytic:Аналитический
-Analytics:Аналитика
-Analyze:Анализировать
-Analyzer:Анализатор
-Ancestor:Предок
-Anchor:Якорь
-Angle:Угол
-Animal:Животное
-Animation:Анимация
-Annotate:Аннотировать
-Annotation:Аннотация
-Anonymous:Анонимный
-Another:Другой
-Answer:Ответ
-Anyone:Любой
-Anything:Что угодно
-Anyway:В любом случае
-Anywhere:Где угодно
-Apart:Отдельно
-Apparent:Очевидный
-Apparently:Очевидно
-Appear:Появиться
-Appearance:Внешний вид
-Append:Добавить
-Appendix:Приложение
-Applicable:Применимый
-Application:Приложение
-Applied:Примененный
-Apply:Применить
-Approach:Подход
-Appropriate:Подходящий
-Appropriately:Адекватно
-Approximate:Приблизительный
-Approximately:Приближенно
-Approximation:Приближение
-Arbitrarily:Произвольно
-Arbitrary:Произвольный
-Arc:Дуга
-Arch:Архитектура
-Architecture:Архитектура
-Archival:Архивный
-Archive:Архив
-Area:Область
-Arena:Арена
-Argument:Аргумент
-Arise:Возникнуть
-Arithmetic:Арифметика
-Arm:Рука
-Around:Вокруг
-Arrange:Устроить
-Arrangement:Расположение
-Array:Массив
-Arrive:Прибыть
-Arrow:Стрелка
-Article:Статья
-Artifact:Артефакт
-Ask:Спросить
-Assemble:Собрать
-Assembler:Ассемблер
-Assembly:Ассемблер
-Assert:Утверждать
-Assertion:Утверждение
-Assign:Присвоить
-Assignable:Присваиваемый
-Assigned:Присвоенный
-Assignment:Присвоение
-Assist:Помочь
-Assistive:Вспомогательный
-Associate:Связать
-Associated:Связанный
-Association:Ассоциация
-Associative:Ассоциативный
-Assume:Предположим
-Assumed:Предполагаемый
-Assuming:Предполагая
-Assumption:Предположение
-Asynchronous:Асинхронный
-Atomic:Атомарный
-Atomically:Атомарно
-Attach:Прикрепить
-Attached:Прикрепленный
-Attachment:Вложение
-Attack:Атака
-Attacker:Атакующий
-Attempt:Попытка
-Attention:Внимание
-Attractive:Привлекательный
-Attribute:Атрибут
-Audio:Аудио
-August:Август
-Authenticate:Аутентифицировать
-Authentication:Аутентификация
-Author:Автор
-Authority:Авторитет
-Authorization:Авторизация
-Authorized:Авторизованный
-Auto:Авто
-Automatic:Автоматический
-Automatically:Автоматически
-Auxiliary:Вспомогательный
-Availability:Доступность
-Available:Доступный
-Average:Средний
-Avoid:Избегать
-Await:Ожидать
-Aware:Осведомлен
-Away:Далеко
-Awesome:Потрясающий
-Awkward:Неловкий
-Axis:Ось
-Back:Назад
-Backed:Поддерживаемый
-Background:Фон
-Backing:Поддержка
-Backlog:Запас
-Backup:Резервное копирование
-Backward:Назад
-Bad:Плохой
-Balance:Баланс
-Ball:Шар
-Bang:Взрыв
-Bar:Полоса
-Barrier:Барьер
-Base:Основа
-Based:Основанный
-Basic:Основной
-Basically:В основном
-Basis:Основа
-Batch:Пакет
-Be:Быть
-Beam:Луч
-Because:Потому что
-Become:Стать
-Beforehand:Заранее
-Begin:Начать
-Behalf:Имени
-Behave:Вести себя
-Behavior:Поведение
-Behaviour:Поведение
-Believe:Верить
-Belong:Принадлежать
-Belonging:Принадлежность
-Bench:Скамья
-Bend:Изгиб
-Benefit:Преимущество
-Beta:Бета
-Better:Лучше
-Beware:Остерегаться
-Beyond:За пределами
-Bias:Предвзятость
-Big:Большой
-Bigger:Больше
-Bilateral:Двусторонний
-Bilinear:Билинейный
-Binary:Двоичный
-Bind:Привязать
-Binding:Привязка
-Bisect:Разделить пополам
-Bit:Бит
-Bitwise:Побитово
-Black:Черный
-Blank:Пустой
-Blindly:Слепо
-Blob:Блоб
-Bloc:Блок
-Block:Блок
-Blocked:Заблокированный
-Blue:Синий
-Board:Доска
-Body:Тело
-Bogus:Поддельный
-Book:Книга
-Boost:Увеличить
-Bootstrap:Загрузка
-Border:Граница
-Boring:Скучный
-Borrow:Заимствовать
-Bot:Бот
-Bother:Беспокоить
-Bottom:Низ
-Bound:Связанный
-Boundary:Граница
-Box:Бокс
-Bracket:Скобка
-Branch:Ветвь
-Brand:Бренд
-Breadth:Ширина
-Break:Перерыв
-Brief:Кратко
-Brilliant:Великолепный
-Bring:Принести
-Broad:Широкий
-Broadcast:Транслировать
-Broken:Сломанный
-Broker:Брокер
-Browse:Просматривать
-Browser:Браузер
-Bucket:Ведро
-Buffer:Буфер
-Bug:Ошибка
-Buggy:Глючный
-Build:Сборка
-Builder:Строитель
-Building:Здание
-Built:Построенный
-Bulk:Оптовая партия
-Bump:Удар
-Bunch:Пучок
-Bundle:Пакет
-Bus:Шина
-Business:Бизнес
-Busy:Занят
-Button:Кнопка
-Byname:Псевдоним
-Bypass:Обход
-Cache:Кэш
-Calculate:Рассчитать
-Calculated:Рассчитанный
-Calculation:Расчет
-Calendar:Календарь
-Call:Вызов
-Callable:Вызываемый
-Caller:Вызывающий
-Calling:Вызов
-Came:Пришел
-Cancel:Отменить
-Cancellation:Отмена
-Candidate:Кандидат
-Canonical:Канонический
-Canvas:Холст
-Cap:Крышка
-Capability:Возможность
-Capacity:Емкость
-Capital:Капитал
-Capture:Захват
-Care:Забота
-Careful:Осторожный
-Carefully:Внимательно
-Carelessly:Небрежно
-Carrier:Перевозчик
-Carry:Нести
-Cascade:Каскад
-Case:Случай
-Cast:Привести к типу
-Cat:Кот
-Catch:Поймать
-Category:Категория
-Caught:Пойманный
-Cause:Причина
-Caution:Осторожность
-Cautiously:Осторожно
-Cell:Ячейка
-Census:Перепись
-Center:Центр
-Central:Центральный
-Centric:Центрический
-Certain:Определенный
-Certainly:Конечно
-Certificate:Сертификат
-Chain:Цепь
-Chained:Привязанный
-Chance:Шанс
-Change:Изменить
-Channel:Канал
-Chapter:Глава
-Char:Символ
-Character:Символ
-Charge:Заряд
-Chatty:Болтливый
-Cheap:Дешевый
-Check:Проверить
-Checked:Проверенный
-Checker:Проверяющий
-Cherry:Вишня
-Child:Ребенок
-Choice:Выбор
-Choose:Выбрать
-Choosing:Выбор
-Chop:Разрезать
-Chosen:Выбранный
-Chunk:Кусок
-Churn:Перемешивание
-Cipher:Шифр
-Circle:Круг
-Circular:Круговой
-City:Город
-Claim:Претензия
-Clarify:Уточнить
-Class:Класс
-Clause:Пункт
-Clean:Чистый
-Cleaning:Очистка
-Cleanly:Чисто
-Cleanup:Очистка
-Clear:Очистить
-Clearer:Яснее
-Clearing:Очистка
-Clearly:Ясно
-Click:Клик
-Client:Клиент
-Clinic:Клиника
-Clock:Часы
-Clone:Клонировать
-Close:Закрыть
-Closed:Закрытый
-Closely:Близко
-Closer:Ближе
-Closure:Завершение
-Cloud:Облако
-Cluster:Кластер
-Code:Код
-Coerce:Преобразовать
-Collaborate:Сотрудничать
-Collapse:Свернуть
-Collate:Сортировать
-Collation:Сортировка
-Collator:Сортировщик
-Collect:Собрать
-Collected:Собранный
-Collection:Коллекция
-Collector:Коллекционер
-Colon:Двоеточие
-Color:Цвет
-Colour:Цвет
-Column:Колонка
-Combination:Комбинация
-Combine:Объединить
-Combined:Объединенный
-Come:Прийти
-Comfortable:Удобный
-Comma:Запятая
-Command:Команда
-Comment:Комментарий
-Commit:Зафиксировать
-Common:Общий
-Commonly:Обычно
-Communicate:Общаться
-Communication:Общение
-Community:Сообщество
-Commutative:Коммутативный
-Compact:Компактный
-Company:Компания
-Comparable:Сравнимый
-Compare:Сравнить
-Comparison:Сравнение
-Compatibility:Совместимость
-Compatible:Совместимый
-Compilation:Компиляция
-Compile:Компилировать
-Compiler:Компилятор
-Complain:Жаловаться
-Complement:Дополнение
-Complete:Завершить
-Completely:Полностью
-Completion:Завершение
-Complex:Сложный
-Complexity:Сложность
-Compliance:Соблюдение
-Compliant:Соблюдающий
-Component:Компонент
-Compose:Составить
-Composite:Составной
-Composition:Состав
-Compound:Сложный
-Comprehensively:Комплексно
-Compress:Сжимать
-Compressed:Сжатый
-Compression:Сжатие
-Compressor:Компрессор
-Compulsory:Обязательный
-Computation:Вычисление
-Compute:Вычислить
-Computer:Компьютер
-Concatenation:Конкатенация
-Concept:Концепция
-Conceptually:Концептуально
-Concern:Забота
-Concerned:Обеспокоенный
-Concise:Краткий
-Conclusion:Заключение
-Concrete:Конкретный
-Concurrency:Параллелизм
-Concurrent:Параллельный
-Concurrently:Параллельно
-Condition:Условие
-Conditional:Условный
-Conditionally:По условию
-Conduct:Провести
-Conference:Конференция
-Confident:Уверенный
-Configuration:Конфигурация
-Configure:Настроить
-Confirm:Подтвердить
-Conflict:Конфликт
-Confusion:Путаница
-Conjunction:Соединение
-Connect:Подключить
-Connected:Подключенный
-Connection:Подключение
-Consecutive:Последовательный
-Consensus:Консенсус
-Consequence:Последствие
-Consequently:Следовательно
-Conservative:Консервативный
-Conservatively:Консервативно
-Consider:Рассмотреть
-Considerably:Значительно
-Consideration:Рассмотрение
-Considered:Рассматриваемый
-Consist:Состоять
-Consistency:Согласованность
-Consistent:Согласованный
-Consistently:Постоянно
-Console:Консоль
-Constant:Константа
-Constantly:Постоянно
-Constraint:Ограничение
-Construct:Создать
-Construction:Конструкция
-Constructor:Конструктор
-Consult:Проконсультироваться
-Consume:Потреблять
-Consumer:Потребитель
-Consuming:Потребление
-Contact:Связь
-Contain:Содержать
-Container:Контейнер
-Content:Содержание
-Contention:Спор
-Context:Контекст
-Contextual:Контекстный
-Contextually:В контексте
-Contiguous:Смежный
-Continuation:Продолжение
-Continue:Продолжить
-Continued:Продолженный
-Contract:Контракт
-Contrary:Противоположный
-Contrast:Контраст
-Contribute:Внести вклад
-Contribution:Вклад
-Contributor:Участник
-Control:Управление
-Controller:Контроллер
-Convenience:Удобство
-Convenient:Удобно
-Conveniently:Удобно
-Convention:Конвенция
-Conventional:Традиционный
-Conversation:Разговор
-Conversion:Преобразование
-Convert:Преобразовать
-Converted:Преобразованный
-Converter:Преобразователь
-Converting:Преобразование
-Convex:Выпуклый
-Copied:Скопированный
-Copilot:Сопилот
-Copy:Копировать
-Copyright:Авторское право
-Core:Ядро
-Corner:Угол
-Corporation:Корпорация
-Corpus:Корпус
-Correct:Правильный
-Correctly:Правильно
-Correctness:Правильность
-Correspond:Соответствовать
-Corresponding:Соответствующий
-Corrupt:Поврежденный
-Corrupted:Поврежденный
-Corruption:Коррупция
-Cos:Косинус
-Cosh:Гиперболический косинус
-Cost:Стоимость
-Count:Подсчитать
-Countable:Подсчитываемый
-Counter:Счетчик
-Counting:Подсчет
-Country:Страна
-Couple:Пара
-Course:Курс
-Cover:Покрыть
-Coverage:Покрытие
-Covered:Покрытый
-Crash:Сбой
-Create:Создать
-Creation:Создание
-Credit:Кредит
-Critical:Критический
-Cross:Пересечение
-Crypt:Шифрование
-Cryptographic:Криптографический
-Cryptography:Криптография
-Crystal:Кристалл
-Cubic:Кубический
-Cumulative:Накопительный
-Curl:Курл
-Curly:Вьющийся
-Currency:Валюта
-Current:Текущий
-Currently:В настоящее время
-Cursor:Курсор
-Curve:Кривая
-Custom:Пользовательский
-Customer:Клиент
-Cut:Вырезать
-Cutoff:Отсечка
-Cycle:Цикл
-Cyclic:Циклический
-Daemon:Демон
-Dark:Темный
-Dashboard:Панель управления
-Data:Данные
-Date:Дата
-Datum:Данные
-Day:День
-Deactivate:Деактивировать
-Dead:Мертвый
-Deadline:Срок
-Deadlock:Замок
-Deal:Сделка
-Decide:Решить
-Decided:Решенный
-Decimal:Десятичный
-Decision:Решение
-Declaration:Объявление
-Declare:Объявить
-Declared:Объявленный
-Decline:Отклонить
-Decode:Декодировать
-Decompose:Разложить
-Decompress:Разархивировать
-Decorator:Декоратор
-Decrement:Уменьшение
-Deep:Глубокий
-Deeply:Глубоко
-Default:По умолчанию
-Defer:Отложить
-Deferred:Отложенный
-Define:Определить
-Defined:Определенный
-Definitely:Определенно
-Definition:Определение
-Definitive:Окончательный
-Deflate:Сжать
-Degree:Степень
-Delay:Задержка
-Delete:Удалить
-Deliberately:Сознательно
-Delimiter:Разделитель
-Deliver:Доставить
-Delta:Дельта
-Delve:Исследовать
-Demonstrate:Демонстрировать
-Denominator:Знаменатель
-Denote:Обозначать
-Dense:Плотный
-Depend:Зависеть
-Dependency:Зависимость
-Dependent:Зависимый
-Depending:В зависимости от
-Deploy:Развернуть
-Deployment:Развертывание
-Deprecate:Устаревать
-Deprecation:Устаревание
-Depth:Глубина
-Derive:Получить
-Derived:Полученный
-Descending:Убывающий
-Describe:Описать
-Description:Описание
-Descriptive:Описательный
-Design:Дизайн
-Designed:Разработанный
-Desirable:Желательный
-Desired:Желаемый
-Destination:Место назначения
-Destroy:Уничтожить
-Detail:Деталь
-Detailed:Подробный
-Detect:Обнаружить
-Detection:Обнаружение
-Detector:Детектор
-Determine:Определить
-Determined:Определенный
-Deterministic:Детерминированный
-Develop:Разрабатывать
-Developer:Разработчик
-Development:Разработка
-Device:Устройство
-Diagnose:Диагностировать
-Diagnostic:Диагностический
-Dial:Набрать номер
-Dialer:Набиратель
-Diameter:Диаметр
-Dictionary:Словарь
-Die:Прекратить выполнение
-Differ:Различаться
-Difference:Разница
-Different:Разный
-Differently:Иначе
-Difficult:Сложный
-Dig:Поиск
-Digest:Дайджест
-Digit:Цифра
-Digital:Цифровой
-Dim:Переменная с ограниченной областью видимости
-Dimensional:Размерный
-Direct:Непосредственный
-Directed:Направленный
-Direction:Направление
-Directive:Директива
-Directly:Прямо
-Directory:Каталог
-Dirty:Грязный
-Disable:Отключить
-Disabled:Отключенный
-Disagree:Не согласиться
-Disallow:Запретить
-Disassembly:Разборка
-Discard:Отбросить
-Disclaimer:Отказ от ответственности
-Discover:Обнаружить
-Discuss:Обсудить
-Discussion:Обсуждение
-Disjoint:Несовместный
-Disjunctive:Дизъюнктивный
-Disk:Диск
-Dismiss:Отклонить
-Dispatch:Отправка
-Displacement:Смещение
-Display:Отобразить
-Displayed:Отображенный
-Distance:Расстояние
-Distinct:Различимый
-Distinction:Различие
-Distinguish:Различать
-Distribute:Распределить
-Distributed:Распределенный
-Distribution:Распределение
-Diversity:Разнообразие
-Divide:Разделить
-Divisible:Делимый
-Division:Разделение
-Divisor:Делитель
-Do:Выполнить
-Doc:Документ
-Document:Документ
-Documentation:Документация
-Dog:Собака
-Dollar:Доллар
-Domain:Домен
-Dominator:Доминирующий
-Donate:Пожертвовать
-Donated:Пожертвованный
-Done:Завершено
-Dot:Точка
-Dotted:Пунктирный
-Double:Двойной
-Down:Вниз
-Downgrade:Понизить версию
-Downstream:Вниз по течению
-Draft:Черновик
-Drained:Исчерпанный
-Dramatically:Драматически
-Drastically:Радикально
-Draw:Нарисовать
-Drive:Привод
-Driven:Управляемый
-Driver:Драйвер
-Drop:Удалить
-Due:Из-за
-Dummy:Простой
-Dump:Выгрузить
-Duplicate:Дублировать
-Durable:Прочный
-Duration:Продолжительность
-Dynamic:Динамический
-Dynamically:Динамически
-Early:Ранний
-Earth:Земля
-Ease:Легкость
-Easier:Более легкий
-Easiest:Самый легкий
-Easily:Легко
-Eastern:Восточный
-Easy:Легкий
-Eat:Есть
-Echo:Эхо
-Ecosystem:Экосистема
-Edge:Грань
-Edit:Редактировать
-Editor:Редактор
-Education:Образование
-Effect:Эффект
-Effective:Эффективный
-Effectively:Эффективно
-Efficiency:Эффективность
-Efficient:Эффективный
-Efficiently:Эффективно
-Effort:Усилие
-Elegant:Элегантный
-Element:Элемент
-Eliminate:Устранить
-Elimination:Устранение
-Ellipse:Эллипс
-Ellipsis:Многоточие
-Elliptic:Эллиптический
-Else:В противном случае
-Elsewhere:В другом месте
-Embed:Встроить
-Emit:Выпустить
-Empty:Пустой
-Emulate:Эмулировать
-Enable:Включить
-Encapsulate:Инкапсулировать
-Enchant:Зачаровывать
-Enclosure:Закрытое пространство
-Encode:Кодировать
-Encounter:Столкновение
-Encourage:Поощрять
-Encrypt:Зашифровать
-Encryption:Шифрование
-End:Конец
-Enforce:Принудить
-Enforced:Принудительный
-Engine:Двигатель
-Engineering:Инженерия
-Enhance:Усилить
-Enough:Достаточно
-Ensure:Обеспечивать
-Enter:Войти
-Enterprise:Предприятие
-Entire:Полный
-Entirely:Полностью
-Entity:Сущность
-Entropy:Энтропия
-Entry:Вход
-Environ:Окружающая среда
-Environment:Среда
-Environmental:Экологический
-Epoch:Эпоха
-Equal:Равный
-Equality:Равенство
-Equally:Равным образом
-Equivalent:Эквивалент
-Err:Ошибка
-Erroneous:Ошибочный
-Error:Ошибка
-Escape:Экранирование
-Escaper:Экранировщик
-Especially:Особенно
-Essentially:В сущности
-Establish:Установить
-Estimate:Оценить
-Evaluate:Оценить
-Evaluation:Оценка
-Even:Даже
-Evenly:Равномерно
-Event:Событие
-Eventual:Постепенный
-Eventually:В конечном итоге
-Ever:Всегда
-Every:Каждый
-Everyone:Каждый
-Everything:Все
-Everywhere:Везде
-Evident:Очевидный
-Evidently:Очевидно
-Exact:Точный
-Exactly:Точно
-Examine:Изучить
-Examiner:Экзаменатор
-Example:Пример
-Exceed:Превысить
-Excellent:Отличный
-Except:За исключением
-Exception:Исключение
-Excess:Избыток
-Excessive:Избыточный
-Exchange:Обмен
-Exclude:Исключить
-Excluding:Исключая
-Exclusion:Исключение
-Exclusive:Исключительный
-Exclusively:Исключительно
-Executable:Исполняемый
-Execute:Выполнить
-Executed:Выполненный
-Execution:Выполнение
-Exempt:Освободить
-Exercise:Упражнение
-Exhaustive:Исчерпывающий
-Exist:Существовать
-Exit:Выход
-Expand:Расширить
-Expansion:Расширение
-Expect:Ожидать
-Expensive:Дорогой
-Experience:Опыт
-Experiment:Эксперимент
-Experimental:Экспериментальный
-Expiration:Истечение
-Expire:Истечь
-Expiring:Истекающий
-Explain:Объяснить
-Explaining:Объяснение
-Explanation:Объяснение
-Explicit:Явный
-Explicitly:Явно
-Explode:Взорвать
-Explore:Исследовать
-Exponent:Показатель степени
-Exponential:Экспоненциальный
-Export:Экспорт
-Expose:Обнародовать
-Express:Выразить
-Expression:Выражение
-Extend:Расширить
-Extended:Расширенный
-Extending:Расширение
-Extensible:Расширяемый
-Extension:Расширение
-Extensive:Обширный
-Extent:Мера
-External:Внешний
-Externally:Внешне
-Extra:Дополнительный
-Extract:Извлечь
-Extracted:Извлеченный
-Extremely:Крайне
-Eye:Глаз
-Facility:Средство
-Fact:Факт
-Factor:Фактор
-Factory:Завод
-Fail:Сбой
-Failure:Ошибка
-Faint:Слабый
-Fair:Справедливый
-Fairly:Достаточно
-Fake:Поддельный
-Fall:Падение
-Fallback:Резервный вариант
-False:Ложный
-Familiar:Знакомый
-Family:Семья
-Far:Далеко
-Farm:Ферма
-Farther:Дальше
-Fast:Быстро
-Faster:Быстрее
-Fatal:Фатальный
-Fault:Ошибка
-Favor:Польза
-Feature:Особенность
-Feed:Питать
-Feedback:Обратная связь
-Feel:Чувствовать
-Fetch:Получить
-Fetched:Полученный
-Fetcher:Получатель
-Fetching:Получение
-Few:Несколько
-Fiber:Волокно
-Field:Поле
-Fifth:Пятый
-Figure:Фигура
-File:Файл
-Fill:Заполнить
-Filter:Фильтр
-Filtering:Фильтрация
-Final:Финальный
-Finalize:Завершить
-Finally:В конечном итоге
-Find:Найти
-Finder:Поиск
-Fine:Хороший
-Fingerprint:Отпечаток пальца
-Finish:Завершить
-Finished:Завершенный
-Finite:Конечный
-Fire:Огонь
-First:Первый
-Firstly:В первую очередь
-Fit:Подходить
-Fitness:Подход
-Fix:Исправить
-Fixed:Исправленный
-Fixer:Исправитель
-Fixture:Фикстура
-Flag:Флаг
-Flaky:Нестабильный
-Flat:Плоский
-Flexibility:Гибкость
-Flexible:Гибкий
-Flip:Перевернуть
-Float:Вещественное число
-Floating:Плавающий
-Flock:Сгруппироваться
-Floor:Пол
-Flow:Поток
-Flush:Очистить буфер
-Flusher:Сбрасывающее устройство
-Focus:Фокус
-Fold:Свернуть
-Folder:Папка
-Follow:Следовать
-Following:Следующий
-Font:Шрифт
-Foolish:Глупый
-Footer:Нижний колонтитул
-Forbidden:Запрещено
-Force:Принудить
-Foreground:Передний план
-Foreign:Иностранный
-Foreseeable:Предсказуемый
-Forever:Навсегда
-Forget:Забыть
-Fork:Разветвление
-Form:Форма
-Format:Формат
-Formed:Сформированный
-Former:Бывший
-Formerly:Ранее
-Forth:Вперед
-Fortunately:К счастью
-Forward:Вперед
-Fossil:Ископаемое
-Found:Найдено
-Foundation:Основа
-Fourth:Четвертый
-Fraction:Дробь
-Fractional:Дробный
-Fragile:Хрупкий
-Fragment:Фрагмент
-Frame:Кадр
-Framework:Фреймворк
-Free:Свободный
-Freed:Освобожденный
-Freely:Свободно
-Freeze:Заморозить
-Frequency:Частота
-Frequently:Часто
-Fresh:Свежий
-Front:Передний
-Fruit:Фрукт
-Full:Полный
-Fully:Полностью
-Fun:Веселье
-Function:Функция
-Functional:Функциональный
-Functionality:Функциональность
-Fund:Фонд
-Fundamental:Фундаментальный
-Further:Далее
-Furthermore:Кроме того
-Future:Будущее
-Fuzz:Размытость
-Fuzzy:Размытый
-Game:Игра
-Gamma:Гамма
-Gap:Пробел
-Garbage:Мусор
-Gardening:Садоводство
-Gather:Собирать
-General:Общий
-Generally:Обычно
-Generate:Генерировать
-Generating:Генерация
-Generation:Поколение
-Generator:Генератор
-Generic:Общий
-Generically:Обще
-Geodetic:Геодезический
-Geographic:Географический
-Geometric:Геометрический
-Geometry:Геометрия
-German:Немецкий
-Get:Получить
-Getting:Получение
-Git:Система контроля версий
-Give:Дать
-Given:Учитывая
-Glass:Стекло
-Global:Глобальный
-Globally:Глобально
-Gnu:Свободная операционная система
-Goal:Цель
-Gold:Золото
-Golden:Золотой
-Gone:Ушел
-Good:Хороший
-Gopher:Протокол интернета
-Got:Получил
-Grab:Захватить
-Gracefully:Элегантно
-Gradual:Постепенный
-Grammar:Грамматика
-Granular:Зернистый
-Granularity:Зернистость
-Graph:Граф
-Graphic:Графический
-Gray:Серый
-Great:Великий
-Greater:Больший
-Greatly:Значительно
-Green:Зеленый
-Greeting:Приветствие
-Grey:Серый
-Gritty:Зернистый
-Grossly:Грубо
-Group:Группа
-Grouped:Сгруппированный
-Grow:Расти
-Growth:Рост
-Guarantee:Гарантия
-Guard:Охранник
-Guardian:Попечитель
-Guess:Угадать
-Guide:Руководство
-Guideline:Рекомендация
-Hack:Взлом
-Hacker:Хакер
-Hacking:Взлом
-Half:Половина
-Halfway:Наполовину
-Hand:Рука
-Handle:Обработать
-Handled:Обработанный
-Handler:Обработчик
-Handling:Обработка
-Handshake:Рукопожатие
-Handy:Удобный
-Happen:Произойти
-Happily:Счастливо
-Happy:Счастливый
-Hard:Трудный
-Harder:Труднее
-Hardware:Аппаратное обеспечение
-Hash:Хэш
-Have:Иметь
-Haystack:Сеновал
-Head:Голова
-Header:Заголовок
-Headline:Заголовок
-Headroom:Запас по головной части
-Heap:Куча
-Hear:Слышать
-Heart:Сердце
-Heat:Тепло
-Heavily:Тяжело
-Height:Высота
-Hello:Привет
-Help:Помощь
-Helper:Помощник
-Helpful:Полезно
-Hence:Следовательно
-Here:Здесь
-Hereby:Таким образом
-Heuristic:Эвристический
-Hex:Шшестнадцатеричная система счисления
-Hi:Привет
-Hidden:Скрытый
-Hide:Скрыть
-Hierarchical:Иерархический
-Hierarchy:Иерархия
-High:Высокий
-Higher:Выше
-Highest:Самый высокий
-Highly:Очень
-Hijack:Захватить
-Hint:Подсказка
-Histogram:Гистограмма
-Historical:Исторический
-Historically:Исторически
-History:История
-Hit:Попадание
-Hold:Удерживать
-Hole:Дыра
-Home:Дом
-Hook:Крюк
-Hope:Надежда
-Hopefully:Надеюсь
-Horizontal:Горизонтальный
-Host:Хост
-Hosting:Хостинг
-Hot:Горячий
-Hour:Час
-Hourly:Почасовой
-However:Однако
-Huge:Огромный
-Human:Человек
-Humanize:Очеловечивать
-Hungry:Голодный
-Hurt:Повредить
-Idea:Идея
-Ideal:Идеальный
-Ideally:Идеально
-Idempotent:Идемпотентный
-Identical:Идентичный
-Identically:Тождественно
-Identifier:Идентификатор
-Identify:Идентифицировать
-Identity:Идентичность
-Idiomatic:Идиоматический
-Idle:Незанятый
-Ignore:Игнорировать
-Illegal:Незаконный
-Illustration:Иллюстрация
-Image:Изображение
-Imaginary:Воображаемый
-Imagine:Представить
-Immediate:Немедленный
-Immediately:Немедленно
-Immutable:Неизменный
-Impact:Воздействие
-Implement:Реализовывать
-Implementation:Реализация
-Implicit:Неявный
-Implicitly:Неявно
-Implode:Имплодировать
-Imply:Подразумевать
-Import:Импортировать
-Importable:Импортируемый
-Importance:Важность
-Important:Важный
-Importantly:Важно
-Importer:Импортер
-Impossible:Невозможно
-Impractical:Непрактичный
-Improper:Неправильный
-Improperly:Неправильно
-Improve:Улучшить
-Improvement:Улучшение
-Improving:Улучшение
-Inactive:Неактивный
-Inadvertent:Непреднамеренный
-Inadvertently:Непреднамеренно
-Inappropriate:Неподходящий
-Inch:Дюйм
-Incidence:Встречаемость
-Incident:Событие
-Include:Включать
-Included:Включенный
-Inclusion:Включение
-Inclusive:Включающий
-Incomparable:Несравнимый
-Incompatible:Несовместимый
-Incomplete:Неполный
-Inconsistent:Несогласованный
-Inconvenient:Неудобный
-Incorrect:Неверный
-Incorrectly:Неверно
-Increase:Увеличение
-Increment:Инкремент
-Incur:Понести
-Indeed:Действительно
-Indefinitely:Неопределенно
-Indent:Отступ
-Indentation:Отступ
-Independent:Независимый
-Independently:Независимо
-Indeterminate:Неопределенный
-Index:Индекс
-Indexed:Индексированный
-Indicate:Указывать
-Indirect:Косвенный
-Indirection:Косвенность
-Indirectly:Косвенно
-Individual:Индивидуальный
-Individually:Индивидуально
-Ineffective:Неэффективный
-Inefficient:Неэффективный
-Infer:Выводить
-Inference:Вывод
-Infinite:Бесконечный
-Infinity:Бесконечность
-Information:Информация
-Informational:Информационный
-Informed:Информированный
-Infrastructure:Инфраструктура
-Inherent:Внутренний
-Inherit:Унаследовать
-Inheritance:Наследование
-Initial:Начальный
-Initialize:Инициализировать
-Initially:Изначально
-Inject:Внедрить
-Injection:Внедрение
-Inner:Внутренний
-Innermost:Самый внутренний
-Input:Вход
-Insecure:Небезопасный
-Insensitive:Нечувствительный
-Insert:Вставить
-Inserted:Вставленный
-Insertion:Вставка
-Inside:Внутри
-Inspect:Осмотреть
-Install:Установить
-Installation:Установка
-Installer:Установщик
-Instance:Экземпляр
-Instant:Мгновенный
-Instantly:Мгновенно
-Instead:Вместо
-Instruction:Инструкция
-Instrument:Инструмент
-Instrumentation:Инструментирование
-Integer:Целое число
-Integration:Интеграция
-Integrator:Интегратор
-Integrity:Целостность
-Intelligently:Умно
-Intend:Намереваться
-Intended:Задуманный
-Intent:Намерение
-Intentional:Умышленный
-Intentionally:Умышленно
-Inter:Между
-Interact:Взаимодействовать
-Interactive:Интерактивный
-Interdependent:Взаимозависимый
-Interest:Интерес
-Interested:Заинтересованный
-Interesting:Интересный
-Interface:Интерфейс
-Interior:Внутренний
-Intermediate:Промежуточный
-Internal:Внутренний
-Internally:Внутренне
-Interpret:Интерпретировать
-Interpretation:Интерпретация
-Interpreter:Интерпретатор
-Interrupt:Прерывание
-Intersect:Пересекать
-Intersection:Пересечение
-Interval:Интервал
-Intractable:Неустойчивый
-Intrepid:Бесстрашный
-Intrinsic:Внутренний
-Introduce:Ввести
-Introduction:Введение
-Intuitive:Интуитивный
-Invalid:Недопустимый
-Invariant:Инвариант
-Inverse:Обратный
-Invert:Инвертировать
-Invisible:Невидимый
-Invocation:Вызов
-Invoke:Вызвать
-Involve:Включать
-Involved:Вовлеченный
-Irrelevant:Не имеющий значения
-Irrespective:Независимо от
-Irreversible:Необратимый
-Isolated:Изолированный
-Isolation:Изоляция
-Issue:Проблема
-Issuer:Эмитент
-Item:Элемент
-Iterate:Итерироваться
-Iteration:Итерация
-Job:Задача
-Join:Присоединить
-Jump:Прыжок
-June:Июнь
-Junk:Мусор
-Just:Просто
-Keep:Сохранить
-Kept:Сохраненный
-Kernel:Ядро
-Key:Ключ
-Keyboard:Клавиатура
-Kill:Убить
-Kind:Вид
-Know:Знать
-Known:Известный
-Label:Метка
-Lack:Недостаток
-Laid:Уложенный
-Lambda:Лямбда
-Lance:Копье
-Land:Земля
-Language:Язык
-Large:Большой
-Last:Последний
-Late:Поздний
-Latency:Задержка
-Later:Позже
-Latest:Последний
-Latter:Последний
-Launch:Запуск
-Launcher:Запускатель
-Law:Закон
-Lay:Укладывать
-Layer:Слой
-Layout:Макет
-Lazily:Лениво
-Lazy:Ленивый
-Lead:Вести
-Leading:Ведущий
-Leaf:Лист
-Leak:Утечка
-Learn:Учиться
-Least:Меньше всего
-Leave:Покидать
-Left:Левый
-Leftmost:Самый левый
-Leftover:Остаток
-Legacy:Устаревший
-Legal:Юридический
-Length:Длина
-Let:Позволять
-Letter:Буква
-Level:Уровень
-Lexical:Лексический
-Liability:Обязательство
-Liable:Ответственный
-Liberally:Щедро
-Library:Библиотека
-License:Лицензия
-Life:Жизнь
-Lifetime:Время жизни
-Light:Свет
-Lightweight:Легкий
-Like:Как
-Likely:Вероятно
-Likewise:Также
-Limit:Лимит
-Limitation:Ограничение
-Limited:Ограниченный
-Limiter:Ограничитель
-Line:Линия
-Linear:Линейный
-Linger:Задерживаться
-Link:Ссылка
-Linkage:Связь
-Linked:Связанный
-Linker:Линкер
-List:Список
-Listed:Указанный
-Listen:Слушать
-Listener:Слушатель
-Listing:Список
-Lite:Легкий
-Literal:Литерал
-Little:Маленький
-Live:Живой
-Liveness:Живучесть
-Load:Загрузка
-Loaded:Загруженный
-Loader:Загрузчик
-Loading:Загрузка
-Local:Локальный
-Locale:Локаль
-Localize:Локализовать
-Locally:Локально
-Locate:Найти
-Location:Местоположение
-Lock:Замок
-Locked:Заблокированный
-Log:Журнал
-Logged:Зарегистрированный
-Logger:Регистратор
-Logic:Логика
-Logical:Логический
-Logically:Логически
-Login:Вход
-Long:Длинный
-Longer:Длиннее
-Look:Посмотреть
-Loop:Петля
-Lose:Потерять
-Loss:Потеря
-Lot:Много
-Love:Любовь
-Low:Низкий
-Lucent:Светящийся
-Machine:Машина
-Macro:Макрос
-Made:Сделанный
-Magic:Волшебство
-Mail:Почта
-Mailbox:Почтовый ящик
-Main:Главный
-Mainly:Главным образом
-Maintain:Поддерживать
-Maintainable:Поддерживаемый
-Maintainer:Сопровождающий
-Maintenance:Обслуживание
-Major:Главный
-Majority:Большинство
-Make:Создавать
-Maker:Создатель
-Malformed:Искаженный
-Man:Человек
-Manage:Управлять
-Management:Управление
-Manager:Менеджер
-Mandatory:Обязательный
-Manipulate:Манипулировать
-Manipulation:Манипуляция
-Manner:Способ
-Mantissa:Мантисса
-Manual:Руководство
-Manually:Вручную
-Many:Много
-Map:Карта
-March:Март
-Mark:Метка
-Markdown:Маркдаун
-Marked:Помеченный
-Marker:Маркер
-Marshal:Маршалировать
-Marshaler:Маршалировщик
-Mask:Маска
-Mass:Масса
-Master:Мастер
-Match:Соответствовать
-Matcher:Сопоставитель
-Matching:Сопоставление
-Math:Математика
-Mathematical:Математический
-Matrix:Матрица
-Matte:Матовый
-Matter:Вопрос
-Maximum:Максимальный
-May:Может быть
-Maybe:Возможно
-Mean:Означать
-Meaning:Значение
-Meaningful:Значимый
-Meant:Предназначенный
-Measure:Измерять
-Measured:Измеренный
-Mechanism:Механизм
-Medium:Средний
-Meet:Встретить
-Meeting:Встреча
-Member:Участник
-Memory:Память
-Mention:Упоминать
-Menu:Меню
-Mercurial:Ртутный
-Merely:Просто
-Merge:Объединить
-Message:Сообщение
-Met:Встретил
-Meta:Мета
-Method:Метод
-Metric:Метрика
-Micro:Микро
-Microsecond:Микросекунда
-Middle:Средний
-Might:Может быть
-Migrate:Переместить
-Migration:Миграция
-Mike:Майк
-Milestone:Веха
-Millisecond:Миллисекунда
-Mime:Мим
-Mind:Ум
-Minimal:Минимальный
-Minimization:Минимизация
-Minimize:Минимизировать
-Minimum:Минимум
-Minor:Младший
-Minus:Минус
-Minute:Минута
-Mirror:Зеркало
-Mismatch:Несоответствие
-Miss:Пропустить
-Missing:Отсутствующий
-Mistake:Ошибка
-Misuse:Неправильное использование
-Mix:Смешивать
-Mixed:Смешанный
-Mixture:Смесь
-Mobile:Мобильный
-Mock:Мокать
-Mode:Режим
-Model:Модель
-Moderately:Умеренно
-Modern:Современный
-Modification:Модификация
-Modifier:Модификатор
-Modify:Изменить
-Modular:Модульный
-Module:Модуль
-Modulo:Модуло
-Modulus:Модуль
-Moment:Момент
-Monitor:Монитор
-Monotonic:Монотонный
-Month:Месяц
-Morphology:Морфология
-Mostly:В основном
-Motion:Движение
-Motivation:Мотивация
-Mount:Монтировать
-Mouse:Мышь
-Move:Перемещать
-Moving:Перемещение
-Much:Много
-Multidimensional:Многомерный
-Multiple:Множественный
-Multiplication:Умножение
-Multiply:Умножать
-Must:Должен
-Mutable:Изменяемый
-Mutate:Мутировать
-Mutual:Взаимный
-Mutually:Взаимно
-Naive:Наивный
-Naively:Наивно
-Name:Имя
-Namely:А именно
-Nasty:Неприятный
-Native:Встроенный
-Natural:Натуральный
-Naturally:Естественно
-Nature:Природа
-Navigate:Навигировать
-Navigation:Навигация
-Nearest:Ближайший
-Nearly:Почти
-Nebula:Туманность
-Necessarily:Обязательно
-Necessary:Необходимый
-Need:Нуждаться
-Needle:Игла
-Negate:Отрицать
-Negation:Отрицание
-Negative:Негативный
-Neither:Ни один из
-Net:Сеть
-Network:Сеть
-Neural:Нейронный
-Never:Никогда
-New:Новый
-Newly:Недавно
-News:Новости
-Next:Следующий
-Nice:Красивый
-Nicely:Красиво
-Nobody:Никто
-Node:Узел
-None:Ни один
-Nonexistent:Не существующий
-Nonzero:Не нулевой
-Norm:Норма
-Normal:Нормальный
-Normalization:Нормализация
-Normalize:Нормализовать
-Normalizer:Нормализатор
-Normally:Обычно
-Not:Не
-Notable:Замечательный
-Notably:Примечательно
-Notation:Обозначение
-Note:Примечание
-Nothing:Ничего
-Notice:Заметить
-Noticeable:Заметный
-Notification:Уведомление
-Notify:Уведомлять
-Now:Сейчас
-Null:Нуль
-Nullable:Допустимый для нуля
-Number:Число
-Numerical:Числовой
-Object:Объект
-Observation:Наблюдение
-Observe:Наблюдать
-Obsolete:Устаревший
-Obtain:Получать
-Obvious:Очевидный
-Obviously:Очевидно
-Occasionally:Иногда
-Occur:Происходить
-Occurrence:Событие
-Octet:Октет
-Odd:Нечетный
-Offer:Предложение
-Official:Официальный
-Officially:Официально
-Offset:Смещение
-Often:Часто
-Oh:Ой
-Oil:Масло
-Old:Старый
-Older:Старше
-Omit:Пропустить
-Once:Однажды
-One:Один
-Ongoing:Происходящий
-Only:Только
-Opacity:Непрозрачность
-Opaque:Непрозрачный
-Open:Открыть
-Opening:Открытие
-Operand:Операнд
-Operate:Управлять
-Operating:Работающий
-Operation:Операция
-Operator:Оператор
-Opinion:Мнение
-Opportunity:Возможность
-Opposite:Противоположный
-Opt:Оптимизировать
-Optimal:Оптимальный
-Optimization:Оптимизация
-Optimize:Оптимизировать
-Option:Опция
-Optional:Опциональный
-Optionally:По желанию
-Orange:Оранжевый
-Orb:Сфера
-Order:Заказ
-Ordered:Упорядоченный
-Ordinal:Порядковый
-Ordinarily:Обычно
-Ordinary:Обычный
-Organizational:Организационный
-Origin:Происхождение
-Original:Оригинальный
-Originally:Изначально
-Other:Другой
-Otherwise:В противном случае
-Outbound:Исходящий
-Outdated:Устаревший
-Outer:Внешний
-Outermost:Самый внешний
-Outlined:Контурный
-Output:Вывод
-Outstanding:Выдающийся
-Overall:В целом
-Overestimate:Переоценивать
-Overflow:Переполнение
-Overhead:Накладные расходы
-Overlaid:Наложенный
-Overlap:Перекрытие
-Overlay:Наложение
-Overly:Слишком
-Override:Переопределить
-Overview:Обзор
-Overwrite:Перезаписать
-Own:Собственный
-Owner:Владелец
-Ownership:Собственность
-Pack:Упаковать
-Package:Пакет
-Packet:Пакет
-Pad:Подушка
-Page:Страница
-Pair:Пара
-Palette:Палитра
-Panic:Паника
-Paper:Бумага
-Paragraph:Параграф
-Parallel:Параллельный
-Parallelism:Параллелизм
-Param:Параметр
-Parameter:Параметр
-Parent:Родитель
-Parse:Разбирать
-Parser:Парсер
-Part:Часть
-Partial:Частичный
-Partially:Частично
-Particular:Особенный
-Particularly:Особенно
-Party:Вечеринка
-Pass:Проходить
-Passing:Прохождение
-Password:Пароль
-Past:Прошлое
-Patch:Патч
-Patent:Патент
-Path:Путь
-Pathological:Патологический
-Pattern:Шаблон
-Pause:Пауза
-Pear:Груша
-Peek:Подглядывать
-Peer:Ровесник
-Peg:Пег
-Pending:Ожидающий
-Percent:Процент
-Percentage:Процентное соотношение
-Perfect:Идеальный
-Perfectionist:Перфекционист
-Perfectly:Идеально
-Perform:Выполнять
-Performance:Производительность
-Performant:Эффективный
-Perhaps:Возможно
-Period:Период
-Periodically:Периодически
-Permanently:Постоянно
-Permissible:Допустимый
-Permission:Разрешение
-Permissive:Допускающий
-Permit:Разрешение
-Permitted:Разрешено
-Permutation:Перестановка
-Perpendicular:Перпендикулярный
-Persistent:Постоянный
-Person:Человек
-Personally:Лично
-Pertinent:Уместный
-Peter:Питер
-Phase:Фаза
-Phi:Фи
-Phrase:Фраза
-Physical:Физический
-Pick:Выбирать
-Pickle:Мариновать
-Picture:Картинка
-Pie:Пирог
-Piece:Кусок
-Pike:Щука
-Pin:Булавка
-Pipe:Труба
-Pipeline:Конвейер
-Pivot:Поворот
-Place:Место
-Placement:Размещение
-Plain:Простой
-Plan:План
-Plane:Самолет
-Plate:Тарелка
-Platform:Платформа
-Play:Играть
-Playground:Детская площадка
-Please:Пожалуйста
-Pluralize:Привести во множественное число
-Point:Точка
-Pointed:Острый
-Pointer:Указатель
-Pointing:Указание
-Policy:Политика
-Poll:Опрос
-Poly:Поли
-Polygon:Многоугольник
-Polynomial:Полином
-Pool:Пул
-Poorly:Плохо
-Pop:Всплытие
-Popular:Популярный
-Populate:Заполнять
-Port:Порт
-Portable:Портативный
-Portion:Часть
-Position:Положение
-Positional:Позиционный
-Positive:Положительный
-Possibility:Возможность
-Possible:Возможно
-Possibly:Возможно
-Post:Опубликовать
-Postscript:Постскрипт
-Potential:Потенциал
-Potentially:Потенциально
-Power:Мощность
-Powered:Питаемый
-Powerful:Мощный
-Practical:Практичный
-Practice:Практика
-Preamble:Преамбула
-Precedence:Приоритет
-Preceding:Предшествующий
-Precise:Точный
-Precisely:Точно
-Precision:Точность
-Predate:Предшествовать
-Predecessor:Предшественник
-Predicate:Предикат
-Predictable:Предсказуемый
-Predominantly:Преимущественно
-Prefer:Предпочитать
-Preferable:Предпочтительный
-Preferably:По возможности
-Preference:Предпочтение
-Preferred:Предпочтительный
-Prefix:Префикс
-Prefixed:Префиксный
-Preparation:Подготовка
-Prepare:Подготовить
-Prepared:Готовый
-Presence:Присутствие
-Present:Присутствующий
-Presentation:Презентация
-Preserve:Сохранить
-Press:Нажимать
-Presumably:Вероятно
-Pretend:Притворяться
-Pretty:Красивый
-Prevent:Предотвратить
-Previous:Предыдущий
-Previously:Ранее
-Price:Цена
-Primarily:В первую очередь
-Primary:Основной
-Prime:Простое число
-Primitive:Примитив
-Print:Печатать
-Printable:Печатаемый
-Printed:Распечатанный
-Printer:Принтер
-Printing:Печать
-Prior:Предшествующий
-Priority:Приоритет
-Prism:Призма
-Pristine:Безупречный
-Privacy:Конфиденциальность
-Private:Частный
-Probability:Вероятность
-Probably:Вероятно
-Problem:Проблема
-Problematic:Проблематичный
-Procedural:Процедурный
-Procedure:Процедура
-Proceed:Продолжить
-Process:Процесс
-Processor:Процессор
-Produce:Производить
-Produced:Произведенный
-Product:Продукт
-Production:Производство
-Prof:Профессор
-Profile:Профиль
-Profiler:Профилировщик
-Prog:Прог
-Program:Программа
-Programmer:Программист
-Progress:Прогресс
-Project:Проект
-Prologue:Пролог
-Prominent:Выдающийся
-Promise:Обещание
-Prompt:Подсказка
-Prone:Склонный
-Proof:Доказательство
-Prop:Проп
-Propagate:Распространять
-Proper:Правильный
-Properly:Правильно
-Property:Свойство
-Proportion:Пропорция
-Proportional:Пропорциональный
-Proposal:Предложение
-Propose:Предлагать
-Protect:Защищать
-Proto:Прото
-Protocol:Протокол
-Prototype:Прототип
-Prove:Доказать
-Provenance:Происхождение
-Provide:Предоставлять
-Provided:Предоставленный
-Provider:Поставщик
-Providing:Предоставление
-Proxy:Прокси
-Prune:Обрезать
-Pseudo:Псевдо
-Pub:Пуб
-Public:Общественный
-Publication:Публикация
-Publicly:Публично
-Publish:Публиковать
-Pull:Тянуть
-Punctuation:Знаки препинания
-Pure:Чистый
-Purely:Исключительно
-Purpose:Цель
-Push:Подталкивать
-Put:Помещать
-Quad:Квадрат
-Quadratic:Квадратичный
-Qualifier:Квалификатор
-Quality:Качество
-Query:Запрос
-Querying:Запрос
-Question:Вопрос
-Queue:Очередь
-Quick:Быстро
-Quickly:Быстро
-Quiet:Тихо
-Quirk:Особенность
-Quit:Выйти
-Quite:Довольно
-Quota:Квота
-Quote:Цитата
-Quotient:Частное
-Rabbit:Кролик
-Race:Гонка
-Radius:Радиус
-Radix:Радикс
-Raise:Поднимать
-Raised:Поднятый
-Ran:Работал
-Random:Случайный
-Randomly:Случайным образом
-Range:Диапазон
-Rank:Ранг
-Rare:Редкий
-Rarely:Редко
-Raster:Растровый
-Rat:Крыса
-Rate:Скорость
-Rather:Скорее
-Ratio:Соотношение
-Rationale:Обоснование
-Raw:Сырой
-Ray:Луч
-Reach:Достичь
-Reachable:Доступный
-React:Реагировать
-Reaction:Реакция
-Read:Читать
-Readability:Читаемость
-Readable:Читаемый
-Reader:Читатель
-Reading:Чтение
-Ready:Готовый
-Real:Реальный
-Really:Действительно
-Reason:Причина
-Reasonable:Разумный
-Reasonably:Разумно
-Rebuild:Перестроить
-Rebuilt:Перестроенный
-Receive:Получать
-Received:Полученный
-Receiver:Получатель
-Recent:Недавний
-Recently:Недавно
-Recode:Перекодировать
-Recognize:Распознавать
-Recommend:Рекомендовать
-Record:Запись
-Recover:Восстанавливать
-Recoverable:Восстанавливаемый
-Recreate:Воссоздать
-Rectangle:Прямоугольник
-Recur:Повторять
-Recurse:Рекурсивный
-Recursion:Рекурсия
-Recursive:Рекурсивный
-Red:Красный
-Redirect:Перенаправление
-Reduce:Уменьшать
-Reduced:Уменьшенный
-Reduction:Уменьшение
-Redundant:Избыточный
-Refer:Ссылаться
-Reference:Ссылка
-Referential:Ссылочный
-Reflect:Отражать
-Reflection:Отражение
-Refraction:Преломление
-Refrangibility:Преломляемость
-Refrangible:Преломляемый
-Refresh:Обновить
-Refuse:Отказываться
-Regard:Уважение
-Regarding:Относительно
-Regardless:Несмотря на
-Region:Регион
-Register:Регистр
-Registered:Зарегистрированный
-Registration:Регистрация
-Registry:Реестр
-Regression:Регрессия
-Regrettable:Сожаление
-Regroup:Перегруппировать
-Regular:Регулярный
-Regularly:Регулярно
-Reject:Отклонить
-Related:Связанный
-Relation:Отношение
-Relational:Относительный
-Relationship:Взаимоотношение
-Relative:Относительный
-Relatively:Относительно
-Release:Релиз
-Relevant:Актуальный
-Reliable:Надежный
-Reliably:Надежно
-Reliant:Зависимый
-Reload:Перезагружать
-Relocation:Перемещение
-Rely:Доверять
-Remain:Оставаться
-Remainder:Остаток
-Remember:Помнить
-Remote:Удаленный
-Remotely:Удаленно
-Removal:Удаление
-Remove:Удалять
-Removed:Удаленный
-Removing:Удаление
-Rename:Переименовать
-Render:Рендерить
-Rendering:Визуализация
-Renegotiation:Пересмот
-Repeat:Повторять
-Repeatable:Повторяемый
-Repeated:Повторенный
-Repeatedly:Повторно
-Repetition:Повторение
-Repetitive:Многократный
-Replace:Заменять
-Replacement:Замена
-Replica:Реплика
-Reply:Ответ
-Report:Отчет
-Reporter:Репортер
-Repository:Репозиторий
-Represent:Представлять
-Representable:Представимый
-Representation:Представление
-Reproduce:Воспроизводить
-Reproducible:Воспроизводимый
-Request:Запрос
-Require:Требовать
-Requirement:Требование
-Reserve:Резервировать
-Reserved:Зарезервированный
-Reset:Сброс
-Residual:Остаточный
-Resize:Изменять размер
-Resolution:Разрешение
-Resolve:Разрешать
-Resolved:Разрешенный
-Resolver:Резольвер
-Resource:Ресурс
-Respect:Уважать
-Respective:Соответствующий
-Respectively:Соответственно
-Respond:Отвечать
-Response:Ответ
-Responsibility:Ответственность
-Responsible:Ответственный
-Responsive:Адаптивный
-Rest:Отдых
-Restart:Перезапуск
-Restaurant:Ресторан
-Restore:Восстановить
-Restrict:Ограничивать
-Restricted:Ограниченный
-Restriction:Ограничение
-Restrictive:Ограничивающий
-Result:Результат
-Resulting:Получившийся
-Resume:Возобновить
-Resumption:Возобновление
-Retain:Сохранять
-Retract:Отменить
-Retraction:Отмена
-Retrieve:Получить
-Retry:Повторить попытку
-Return:Вернуть
-Returned:Возвращенный
-Reuse:Повторное использование
-Reverse:Обратный
-Reversed:Обратный
-Reversing:Обращение
-Review:Обзор
-Revision:Ревизия
-Revoke:Отменить
-Rewind:Перемотать
-Rewrite:Переписать
-Rid:Избавить
-Right:Правильный
-Ring:Кольцо
-Rip:Разорвать
-Risk:Риск
-Rob:Ограбить
-Robot:Робот
-Robust:Надежный
-Robustly:Надежно
-Rocket:Ракета
-Role:Роль
-Roll:Катить
-Rollback:Откат
-Room:Комната
-Root:Корень
-Rooted:Укорененный
-Rotate:Повернуть
-Rotation:Поворот
-Roughly:Грубо
-Round:Круглый
-Route:Маршрут
-Router:Маршрутизатор
-Routine:Рутина
-Row:Строка
-Rule:Правило
-Run:Запускать
-Rune:Руна
-Runnable:Запускаемый
-Runner:Бегун
-Running:Запуск
-Safe:Безопасный
-Safely:Безопасно
-Safety:Безопасность
-Salt:Соль
-Same:Тот же
-Sample:Пример
-Sandbox:Песочница
-Sanity:Разумность
-Satisfaction:Удовлетворение
-Satisfied:Удовлетворенный
-Satisfy:Удовлетворять
-Save:Сохранить
-Saved:Сохраненный
-Saw:Пила
-Say:Говорить
-Scalable:Масштабируемый
-Scalar:Скаляр
-Scale:Масштаб
-Scan:Сканировать
-Scanner:Сканер
-Scanning:Сканирование
-Scavenge:Облазить
-Scavenger:Облазщик
-Scenario:Сценарий
-Schedule:Расписание
-Schema:Схема
-Scheme:Схема
-Scientific:Научный
-Scope:Область
-Score:Оценка
-Scratch:Нуль
-Screen:Экран
-Script:Сценарий
-Scroll:Прокрутка
-Search:Поиск
-Searching:Поиск
-Sec:Сек
-Second:Второй
-Secondary:Вторичный
-Secondly:Во-вторых
-Secret:Секрет
-Section:Раздел
-Secure:Безопасный
-Securely:Безопасно
-Security:Безопасность
-See:Видеть
-Seed:Семя
-Seek:Искать
-Seem:Казаться
-Seen:Виден
-Segment:Сегмент
-Segmentation:Сегментация
-Select:Выбрать
-Selected:Выбранный
-Selection:Выбор
-Selectively:Выборочно
-Selector:Селектор
-Self:Сам
-Sell:Продавать
-Semantic:Семантический
-Semantically:Семантически
-Semaphore:Семафор
-Semicolon:Точка с запятой
-Send:Отправить
-Sender:Отправитель
-Sense:Смысл
-Sensible:Разумный
-Sensitive:Чувствительный
-Sensitively:Чувствительно
-Sent:Отправленный
-Sentinel:Страж
-Separate:Раздельный
-Separately:Отдельно
-Separating:Разделение
-Separator:Разделитель
-Sequence:Последовательность
-Sequential:Последовательный
-Sequentially:Последовательно
-Serial:Последовательный
-Serialization:Сериализация
-Serialize:Сериализовать
-Series:Серия
-Seriously:Серьезно
-Serve:Обслуживать
-Server:Сервер
-Service:Служба
-Session:Сессия
-Set:Установить
-Settable:Устанавливаемый
-Setting:Настройка
-Setup:Настройка
-Several:Несколько
-Severe:Серьезный
-Severity:Тяжесть
-Shadow:Тень
-Shallow:Поверхностный
-Shape:Форма
-Share:Делиться
-Shell:Оболочка
-Shift:Сдвиг
-Short:Короткий
-Shorter:Короче
-Shorthand:Краткая запись
-Shortly:Вскоре
-Show:Показать
-Shown:Показанный
-Shrink:Уменьшить
-Shuffle:Перемешать
-Shut:Закрыть
-Shutdown:Выключение
-Side:Сторона
-Sieve:Сито
-Sigma:Сигма
-Sign:Подпись
-Signal:Сигнал
-Signature:Подпись
-Signer:Подписант
-Significance:Значимость
-Significant:Значительный
-Significantly:Значительно
-Signify:Символизировать
-Silent:Безмолвный
-Silently:Безмолвно
-Similar:Похожий
-Similarly:Подобным образом
-Simple:Простой
-Simpler:Проще
-Simplicity:Простота
-Simplified:Упрощенный
-Simplify:Упростить
-Simplistic:Примитивный
-Simply:Просто
-Simulate:Симулировать
-Simultaneous:Одновременный
-Simultaneously:Одновременно
-Sin:Синус
-Sine:Синус
-Single:Одиночный
-Sinh:Гиперболический синус
-Sink:Уходить
-Site:Сайт
-Situation:Ситуация
-Size:Размер
-Skew:Косой
-Skewy:Косой
-Skilled:Навыками
-Skip:Пропустить
-Skipping:Пропускание
-Slack:Полотно
-Slash:Косая черта
-Sleep:Спать
-Slice:Разрезать
-Sliced:Разрезанный
-Slightly:Немного
-Slog:Тяжелая работа
-Slot:Слот
-Slow:Медленно
-Slurp:Влажно
-Small:Маленький
-Smaller:Меньше
-Snapshot:Снимок
-Snippet:Отрывок
-So:Так
-Soap:Мыло
-Sock:Носок
-Socket:Сокет
-Sodium:Натрий
-Soft:Мягкий
-Solely:Исключительно
-Solid:Твердый
-Solitaire:Пасьянс
-Solution:Решение
-Solve:Решить
-Solver:Решатель
-Someday:Когда-нибудь
-Somehow:Как-то
-Someone:Кто-то
-Something:Что-то
-Sometime:Когда-то
-Sometimes:Иногда
-Somewhat:В некоторой степени
-Somewhere:Где-то
-Soon:Скоро
-Sorry:Простите
-Sort:Сортировать
-Sorted:Отсортированный
-Source:Исходный код
-Space:Пространство
-Span:Диапазон
-Spare:Запасной
-Sparse:Разреженный
-Spatial:Пространственный
-Spatially:Пространственно
-Special:Специальный
-Specialized:Специализированный
-Specially:Специально
-Specific:Специфический
-Specifically:Специально
-Specification:Спецификация
-Specifier:Спецификатор
-Specify:Указать
-Spectrum:Спектр
-Speculum:Спекулум
-Speed:Скорость
-Spend:Тратить
-Spent:Потраченный
-Sphinx:Сфинкс
-Spill:Пролить
-Spin:Вращать
-Spirit:Дух
-Splice:Сплайс
-Split:Разделить
-Splitting:Разделение
-Spot:Место
-Spread:Распространение
-Spurious:Ложный
-Square:Квадрат
-Stability:Стабильность
-Stable:Стабильный
-Stack:Стек
-Stage:Этап
-Stale:Устарелый
-Stamp:Марка
-Standard:Стандарт
-Stanza:Станция
-Star:Звезда
-Start:Начать
-Starter:Запускатель
-Starting:Начало
-State:Состояние
-Statement:Утверждение
-Static:Статический
-Statically:Статически
-Statistic:Статистика
-Status:Статус
-Stay:Остаться
-Step:Шаг
-Sticky:Липкий
-Still:По-прежнему
-Stomp:Топать
-Stop:Остановить
-Stopped:Остановленный
-Storage:Хранилище
-Store:Хранить
-Story:История
-Straightforward:Прямолинейный
-Strange:Странный
-Strategy:Стратегия
-Stream:Поток
-Strict:Строгий
-Strictly:Строго
-Stride:Шаг
-String:Строка
-Stringer:Стрингер
-Strip:Удалить
-Stripped:Удаленный
-Stroke:Удар
-Strong:Сильный
-Strongly:Сильно
-Structure:Структура
-Stub:Заглушка
-Study:Изучать
-Stuff:Вещь
-Style:Стиль
-Sub:Под
-Subclass:Подкласс
-Subject:Предмет
-Sublicense:Сублицензия
-Submit:Отправить
-Subscribe:Подписаться
-Subscriber:Абонент
-Subscription:Подписка
-Subsequent:Последующий
-Subsequently:Позднее
-Subset:Подмножество
-Substantial:Существенный
-Substantially:Существенно
-Substitute:Заменить
-Substituted:Замененный
-Substitution:Замена
-Subtle:Тонкий
-Subtract:Вычесть
-Subtraction:Вычитание
-Subtype:Подтип
-Subversion:Подрыв
-Succeed:Достичь успеха
-Success:Успех
-Successful:Успешный
-Successfully:Успешно
-Successive:Последовательный
-Successor:Преемник
-Such:Такой
-Sufficient:Достаточный
-Sufficiently:Достаточно
-Suffix:Суффикс
-Suggest:Предложить
-Suggestion:Предложение
-Suit:Подходить
-Suitable:Подходящий
-Suitably:Подходящим образом
-Suite:Набор
-Sum:Сумма
-Summary:Сводка
-Sun:Солнце
-Super:Супер
-Supply:Поставить
-Support:Поддерживать
-Suppose:Предполагать
-Suppress:Подавлять
-Suppressed:Подавленный
-Sure:Уверенно
-Surface:Поверхность
-Surprising:Удивительный
-Surrogate:Заместительный
-Surrounding:Окружение
-Survey:Исследование
-Susceptible:Восприимчивый
-Suspect:Подозревать
-Suspend:Приостановить
-Swap:Поменять местами
-Sweep:Подметать
-Swept:Подметенный
-Swig:Глоток
-Switch:Переключатель
-Switcher:Переключатель
-Symbol:Символ
-Symbolic:Символический
-Symbolizer:Символизатор
-Symmetric:Симметричный
-Symmetrical:Симметричный
-Sync:Синхронизация
-Synchronization:Синхронизация
-Synchronize:Синхронизировать
-Synchronous:Синхронный
-Synopsis:Синопсис
-Syntactic:Синтаксический
-Syntactically:Синтаксически
-Syntax:Синтаксис
-Synthetic:Синтетический
-System:Система
-Tab:Вкладка
-Table:Таблица
-Tabular:Табличный
-Tag:Метка
-Tagged:Меченый
-Tail:Хвост
-Take:Взять
-Taken:Взятый
-Talk:Говорить
-Tan:Тан
-Tanh:Гиперболический тангенс
-Tar:Смола
-Target:Цель
-Task:Задача
-Tasty:Вкусно
-Team:Команда
-Technically:Технически
-Technique:Техника
-Tee:Тройник
-Tell:Сказать
-Temp:Временный
-Template:Шаблон
-Temporarily:Временно
-Temporary:Временный
-Tend:Тяготеть
-Term:Термин
-Terminal:Терминал
-Terminate:Завершить
-Termination:Завершение
-Terminator:Завершающий символ
-Terminology:Терминология
-Test:Тест
-Tested:Протестированный
-Tester:Тестировщик
-Testing:Тестирование
-Text:Текст
-Textual:Текстовый
-Thank:Спасибо
-Theme:Тема
-Then:Затем
-Thence:Отсюда
-Theory:Теория
-There:Там
-Thereby:Тем самым
-Therefore:Поэтому
-Thereof:Отсюда
-Thickness:Толщина
-Thin:Тонкий
-Thing:Вещь
-Think:Думать
-Third:Третий
-Thorough:Тщательный
-Thoroughly:Тщательно
-Though:Хотя
-Thought:Мысль
-Thread:Поток
-Threshold:Порог
-Throughout:На протяжении
-Throw:Бросить
-Thrown:Брошенный
-Thumb:Большой палец
-Thumbnail:Миниатюра
-Thus:Таким образом
-Tick:Галочка
-Ticker:Метка времени
-Ticket:Билет
-Tidy:Аккуратный
-Tilde:Тильда
-Tile:Плитка
-Till:До
-Time:Время
-Timed:Временной
-Timer:Таймер
-Timing:Время выполнения
-Tint:Оттенок
-Tiny:Крошечный
-Tip:Совет
-Title:Заголовок
-Today:Сегодня
-Together:Вместе
-Toggle:Переключить
-Token:Токен
-Told:Сказал
-Tolerance:Терпимость
-Too:Тоже
-Took:Взял
-Tool:Инструмент
-Tooling:Инструментарий
-Top:Верхний
-Topic:Тема
-Tort:Деликатес
-Total:Всего
-Totally:Полностью
-Touch:Касание
-Tour:Тур
-Trace:След
-Tracer:Трассировщик
-Track:Дорожка
-Tracker:Трекер
-Trader:Торговец
-Traditional:Традиционный
-Traffic:Трафик
-Trailer:Прицеп
-Training:Обучение
-Trait:Черта
-Tramp:Бродяга
-Trampoline:Батут
-Transaction:Транзакция
-Transcript:Транскрипт
-Transfer:Перевод
-Transform:Преобразовать
-Transformation:Преобразование
-Transformer:Трансформатор
-Transforming:Преобразование
-Transient:Временный
-Transition:Переход
-Transitional:Переходный
-Transitive:Транзитивный
-Transitively:Транзитивно
-Translatable:Переводимый
-Translate:Переводить
-Translation:Перевод
-Transliterator:Транслитератор
-Transmission:Передача
-Transmit:Передавать
-Transparency:Прозрачность
-Transparent:Прозрачный
-Transparently:Прозрачно
-Transport:Транспорт
-Trap:Ловушка
-Traversable:Обходимый
-Traversal:Обход
-Traverse:Обход
-Treat:Обрабатывать
-Tree:Дерево
-Trick:Хитрость
-Tricky:Хитрый
-Trigger:Срабатывание
-Triggered:Сработанный
-Trim:Обрезать
-Trivial:Тривиальный
-Trophy:Трофей
-Trouble:Проблема
-True:Истинный
-Truly:По-настоящему
-Truncate:Усечь
-Truncated:Усеченный
-Trust:Доверие
-Truth:Истина
-Try:Попробовать
-Trying:Попытка
-Turn:Поворачивать
-Turned:Повернутый
-Turtle:Черепаха
-Tutorial:Руководство
-Twice:Дважды
-Twitter:Твиттер
-Two:Два
-Type:Тип
-Typical:Типичный
-Typically:Обычно
-Ugly:Уродливый
-Ultimately:В конечном итоге
-Unable:Не в состоянии
-Unaffected:Не затронутый
-Unaligned:Не выровненный
-Unary:Унарный
-Unauthorized:Неавторизованный
-Unavailable:Недоступный
-Unblock:Разблокировать
-Unblocked:Разблокированный
-Unbound:Не связанный
-Unbounded:Безграничный
-Uncaught:Не пойманный
-Unchanged:Неизменный
-Unchecked:Непроверенный
-Unclear:Неясный
-Unclosed:Незакрытый
-Uncolored:Некрашеный
-Uncommitted:Несовершенный
-Uncompressed:Несжатый
-Unconditionally:Безусловно
-Undefined:Неопределенный
-Underflow:Переполнение снизу
-Underlying:Лежащий в основе
-Underscore:Подчеркивание
-Understand:Понимать
-Understood:Понятно
-Undesired:Нежелательный
-Undo:Отменить
-Undocumented:Документация отсутствует
-Unescaped:Неэкранированный
-Unexpected:Неожиданный
-Unexpectedly:Неожиданно
-Unexported:Не экспортированный
-Unfinished:Незаконченный
-Unfortunate:Неудачный
-Unfortunately:К сожалению
-Unhandled:Необработанный
-Unification:Унификация
-Unified:Объединенный
-Uniform:Равномерный
-Unify:Объединить
-Unintentionally:Непреднамеренно
-Uninterpreted:Неинтерпретируемый
-Union:Объединение
-Unique:Уникальный
-Uniquely:Уникальным образом
-Unit:Единица
-Universally:Универсально
-Universe:Вселенная
-Unknown:Неизвестный
-Unlike:В отличие
-Unlikely:Маловероятно
-Unlimited:Неограниченный
-Unlink:Разорвать связь
-Unlock:Разблокировать
-Unlocked:Разблокированный
-Unmarshaled:Недемаршализованный
-Unmodified:Неизмененный
-Unmount:Демонтировать
-Unnamed:Без имени
-Unnecessary:Ненужный
-Unneeded:Ненужный
-Unobtrusive:Ненавязчивый
-Unofficial:Неофициальный
-Unordered:Неупорядоченный
-Unpack:Распаковать
-Unpredictable:Непредсказуемый
-Unpruned:Неподрезанный
-Unpublished:Неопубликованный
-Unqualified:Неквалифицированный
-Unquote:Нецензурная речь
-Unquoted:Не в кавычках
-Unreachable:Недостижимый
-Unread:Непрочитанный
-Unrecognized:Нераспознанный
-Unrecoverable:Невосстановимый
-Unrelated:Не связанный
-Unreleased:Не выпущенный
-Unreliable:Ненадежный
-Unresolved:Нерешенный
-Unsafe:Небезопасный
-Unsaved:Несохраненный
-Unselected:Невыбранный
-Unset:Не установлен
-Unsigned:Незнакомый
-Unsorted:Несортированный
-Unspecified:Неопределенный
-Unstable:Нестабильный
-Unsuccessful:Неудачный
-Unsupported:Неподдерживаемый
-Unsure:Неуверенный
-Untrusted:Ненадежный
-Unusable:Непригодный
-Unused:Неиспользованный
-Unusual:Необычный
-Unwieldy:Громоздкий
-Unwind:Разворачиваться
-Unwrap:Распаковать
-Up:Вверх
-Upcoming:Предстоящий
-Update:Обновление
-Upgrade:Обновление
-Upper:Верхний
-Upstream:Вверх по потоку
-Urgent:Срочно
-Usable:Пригодный
-Usage:Использование
-Use:Использовать
-Used:Использованный
-Useful:Полезный
-Useless:Бесполезный
-User:Пользователь
-Usual:Обычный
-Usually:Обычно
-Utility:Утилита
-Utilization:Использование
-Valid:Действительный
-Validate:Проверять
-Validation:Проверка
-Validity:Действительность
-Value:Значение
-Valued:Оцененный
-Van:Грузовик
-Variable:Переменная
-Variant:Вариант
-Variety:Разнообразие
-Various:Различные
-Varnish:Лак
-Vary:Изменяться
-Vast:Большой
-Vector:Вектор
-Vendor:Поставщик
-Verb:Глагол
-Verbatim:Дословно
-Verbose:Многословный
-Verbosity:Многословие
-Verification:Проверка
-Verifier:Проверяющий
-Verify:Проверить
-Veritable:Подлинный
-Version:Версия
-Vertical:Вертикальный
-Very:Очень
-Vet:Ветеринар
-Vice:Зло
-Victor:Виктор
-Video:Видео
-View:Просмотр
-Viewable:Видимый
-Viewer:Просмотрщик
-Violet:Фиолетовый
-Virtual:Виртуальный
-Virus:Вирус
-Visibility:Видимость
-Visible:Видимый
-Visit:Посещение
-Visitor:Посетитель
-Visual:Визуальный
-Visualization:Визуализация
-Void:Пустота
-Volatile:Летучий
-Volume:Объем
-Vote:Голосование
-Vulnerability:Уязвимость
-Vulnerable:Уязвимый
-Wait:Ждать
-Waiter:Официант
-Wake:Пробудить
-Walk:Идти
-Walker:Идущий
-Wall:Стена
-Want:Желать
-Warn:Предупреждать
-Warning:Предупреждение
-Warranty:Гарантия
-Waste:Отходы
-Watch:Наблюдать
-Watcher:Наблюдатель
-Water:Вода
-Way:Путь
-Weak:Слабый
-Web:Веб
-Wed:Свадьба
-Week:Неделя
-Weekday:Рабочий день
-Weekly:Еженедельно
-Weight:Вес
-Weird:Странный
-Welcome:Добро пожаловать
-Well:Хорошо
-Whatever:Все равно
-Whence:Откуда
-Whenever:Когда угодно
-Wherever:Где бы ни
-White:Белый
-Whiteness:Белизна
-Whole:Целый
-Wide:Широкий
-Widely:Широко
-Width:Ширина
-Window:Окно
-Wire:Провод
-Wireless:Беспроводной
-Wish:Желание
-Within:В пределах
-Won:Выиграл
-Word:Слово
-Work:Работа
-Worker:Работник
-Working:Работающий
-World:Мир
-Worry:Беспокоиться
-Worth:Стоимость
-Wrap:Обернуть
-Wrapped:Обернутый
-Wrapper:Обертка
-Writable:Записываемый
-Write:Писать
-Writer:Писатель
-Writing:Письменность
-Written:Написанный
-Wrong:Неправильно
-Yeah:Да
-Year:Год
-Yellow:Желтый
-Yet:Еще
-Yield:Урожайность
-Younger:Моложе
-Zebra:Зебра
-Zero:Ноль
-Zip:Зип
-Zone:Зона
+i:я
+a:любой, один, каждый, некий
+able:способный, быть в состоянии
+about:о
+account:счет, считать
+acid:кислота, кислый
+across:через
+act:действия
+addition:дополнение
+adjustment:коррекция
+advertisement:реклама
+after:после
+again:снова
+against:против
+agreement:соглашение
+air:воздух, проветривать
+all:все, весь
+almost:почти
+among:среди
+amount:количество, означать, составлять
+amusement:развлечение
+and:и
+angle:угол, поворачивать
+angry:сердитый
+animal:животное
+answer:ответ, отвечать
+ant:муравей
+any:любой, никто
+apparatus:аппарат
+apple:яблоко
+approval:одобрение
+arch:арка, дуга, выгибать
+argument:спор, аргумент
+arm:рука, вооружать
+army:армия
+art:искусство, художественный
+as:поскольку, как
+at:в
+attack:нападение, нападать
+attempt:попытка, пытаться
+attention:внимание
+attraction:достопримечательности
+authority:власть, полномочие
+automatic:автоматический
+awake:активный, пробуждать, просыпаться
+baby:ребёнок, младенец
+back:назад, спина, отступать
+bad:плохой
+bag:сумка
+balance:баланс, уравновешивать
+ball:мяч
+band:группа
+base:основной
+basin:бассейн
+basket:корзина
+bath:ванна, купаться
+be:быть
+beautiful:красивый
+because:потому что
+bed:кровать
+bee:пчела
+before:перед
+behaviour:поведение
+belief:вера
+bell:колокольчик
+bent:склонность, сгибать
+berry:ягода
+between:между
+bird:птица
+birth:рождение
+bit:частица, бит
+bite:укус, кусать
+bitter:горький, ожесточенный
+black:чёрный
+blade:лезвие
+blood:кровь
+blow:удар, дуть
+blue:синий
+board:доска
+boat:лодка, судно
+body:тело
+boiling:кипение
+bone:кость
+book:книга
+boot:ботинок, загружать
+bottle:бутылка
+box:коробка
+boy:мальчик
+brain:мозг
+brake:тормоз, тормозить
+branch:ветвь, отделение
+brass:медь, руководство
+bread:хлеб
+breath:дыхание
+brick:кирпич
+bridge:мост
+bright:яркий, умный
+broken:сломанный
+brother:брат
+brown:коричневый
+brush:щётка, кисть
+bucket:ведро, черпать
+building:здание, строение
+bulb:луковица, выпирать
+burn:ожог, гореть
+burst:взрыв, взрывать
+business:бизнес, деловой
+but:а, но
+butter:масло
+button:кнопка, застёгивать
+by:к, в соответствии с, за, на
+cake:пирог
+camera:камера
+canvas:холст
+card:карта, чесать
+care:забота, лечение
+carriage:вагон
+cart:везти
+cat:кот
+cause:причина, вызывать
+certain:уверенный, определенный
+chain:цепь, сеть
+chalk:мел, рисовать мелом
+chance:шанс, случайный, рисковать
+change:изменение, замена
+cheap:дешёвый
+cheese:сыр
+chemical:химикат
+chest:грудь, сундук
+chief:главный
+chin:подбородок
+church:церковь
+circle:круг
+clean:чистый, чистить
+clear:ясный, очищать, оправдываться
+clock:часы
+cloth:ткань, одежда
+cloud:облако
+coal:уголь
+coat:пальто, покрывать
+cold:холодный
+collar:воротник, хватать
+colour:цвет
+comb:расчёсывать
+come:приходить, приезжать
+comfort:комфорт
+committee:комитет
+common:общий
+company:компания
+comparison:сравнение
+competition:соревнование
+complete:полный, заканчивать
+complex:комплекс
+condition:условие, обуславливать
+connection:связь
+conscious:сознательный
+control:контроль
+cook:готовить
+copper:медь
+copy:копия
+cord:шнур, связывать
+cork:пробка
+cotton:хлопок
+cough:кашель
+country:страна
+cover:покрытие, покрывать, обложка
+cow:корова
+crack:первоклассный, взламывать
+credit:кредит, верить
+crime:преступление
+cruel:жестокий
+crush:давка, сокрушать
+cry:плакать
+cup:чашка
+current:текущий, поток
+curtain:занавес, штора, занавешивать
+curve:кривая, избегать
+cushion:подушка, смягчать
+cut:резать
+damage:повреждение, повреждать
+danger:опасность
+dark:темнота, темный
+daughter:дочь
+day:день
+dead:мёртвый
+dear:дорогой
+death:смерть
+debt:долг
+decision:решение
+deep:глубокий, глубоко
+degree:уровень, градус, степень
+delicate:тонкий, деликатный
+dependent:зависимый
+design:намереваться
+desire:желание, желать
+destruction:разрушение
+detail:детализировать, детали
+development:развитие
+different:различный, другой
+digestion:вываривание
+direction:управление
+dirty:грязный
+discovery:открытие
+discussion:обсуждение
+disease:болезнь
+disgust:отвращение
+distance:дистанция
+distribution:распределение
+division:подразделение
+do:делать
+dog:собака
+door:дверь
+doubt:сомнение
+down:вниз
+drain:утечка, истощать
+drawer:ящик
+dress:платье, одевать
+drink:пить, напиток
+driving:вождение
+drop:капля, опускать
+dry:сухой, сушить
+dust:чистить, пыль
+ear:ухо
+early:рано, ранний
+earth:земля
+east:восток
+edge:продвигаться, край
+education:образование
+effect:производить, эффект
+egg:яйцо
+elastic:эластичный
+electric:электрический
+end:заканчивать, конец
+engine:двигатель
+enough:достаточно
+equal:равный, равняться
+error:ошибка
+even:еще, даже
+event:случай, событие
+ever:когда-либо, никогда
+every:каждый
+example:пример
+exchange:обмен, обменивать
+existence:существование
+expansion:расширение
+experience:опыт, испытывать
+expert:опытный, эксперт
+eye:глаз
+face:лицо
+fact:факт
+fall:падение, осень
+false:фальшивый
+family:семья
+far:самый дальний
+farm:ферма
+fat:толстый, жир
+father:папа
+fear:бояться, страх
+feather:перо, украшать
+feeble:слабый
+feeling:чувство
+female:женский
+fertile:плодородный
+fiction:беллетристика, фикция
+field:область, поле, выставлять
+fight:борьба, бороться
+finger:палец
+fire:огонь
+first:первый
+fish:рыба
+fixed:неподвижный, неизменный
+flag:флаг, сигнализировать
+flame:пылать, пламя
+flat:плоский, квартира, плоскость
+flight:полет, рейс
+floor:пол, этаж, дно
+flower:цветок
+fly:муха, лететь
+fold:сгиб, сворачивать
+food:еда, продовольствие
+foolish:глупый
+foot:нога
+for:для
+force:сила, вынуждать, вызывать
+fork:вилка
+form:форма
+forward:отправлять, вперед
+fowl:домашняя птица
+frame:структура, рамка, создавать
+free:свобода, бесплатный
+frequent:частый, часто посещать
+friend:друг
+from:из
+front:выходить, фронт, передний
+fruit:фрукт
+full:полный
+future:будущий, будущее
+garden:сад
+general:общий, генерал
+get:получать, заставлять
+girl:девочка
+give:давать
+glass:стекло, стакан
+glove:перчатка
+go:ходить, идти
+goat:коза
+gold:золото
+good:хороший
+government:государство
+grain:зерно
+grass:трава
+great:великий, великолепный
+green:зелёный
+grey:серый
+grip:власть, захват, захватывать
+group:группа
+growth:рост
+guide:гид, справочник, путеводитель
+gun:оружие
+hair:волосы
+hammer:молоток
+hand:рука
+hanging:вывешивание, висение
+happy:счастье
+harbour:гавань
+hard:трудный, тяжёлый, твёрдый
+harmony:гармония
+hat:шляпа
+hate:ненавидеть, очень не хотеть, ненависть
+have:иметь, съесть, знать
+he:он
+head:голова
+healthy:здоровый
+hearing:слушание, слух
+heart:сердце
+heat:нагревать, высокая температура
+help:помощь, помогать
+here:здесь, сюда
+high:высокий, высоко
+history:история
+hole:продырявливать, отверстие
+hollow:пустота
+hook:крюк, вербовать
+hope:надежда, надеяться
+horn:рожок
+horse:лошадь
+hospital:больница
+hour:час
+house:дом
+how:как
+humour:юмор
+ice:лёд
+idea:идея
+if:если
+ill:плохо, болеть
+important:важный
+impulse:импульс
+in:в
+increase:увеличивать, увеличение
+industry:индустрия
+ink:чернила
+insect:насекомое
+instrument:инструмент
+insurance:страховка
+interest:интерес, процент, доля
+invention:изобретение
+iron:утюг, гладить
+island:остров
+jelly:превращать в желе, желе
+jewel:драгоценный камень
+join:присоединяться, объединение, соединение
+journey:путешествовать, поездка
+judge:судья, судить
+jump:прыгать, прыжок
+keep:продолжать, держать, оставлять, не допускать
+kettle:чайник
+key:ключ
+kick:удар, ударить
+kind:добрый, вид
+kiss:поцелуй, целовать
+knee:колено
+knife:нож
+knot:узел
+knowledge:знание
+land:земля
+language:язык
+last:последний, длиться
+late:опаздывать
+laugh:смеяться, смех
+law:законный, закон
+lead:принуждать, побеждать, вести, лидерство
+leaf:лист, покрывать листвой
+learning:изучение, обучение
+leather:кожа
+left:лево, левый
+leg:нога
+let:позволять
+letter:письмо
+level:уровень, выравнивать, направлять
+library:библиотека
+lift:поднимать, лифт
+light:освещать, легкий, свет
+like:подобный, любить, нравиться
+limit:ограничивать
+line:линия, очередь, выравнивать
+linen:льняной, полотно
+lip:губа
+liquid:жидкий, жидкость
+list:список, перечислять
+little:маленький
+living:проживаниe
+lock:замок
+long:долго, длинный
+look:взгляд
+loose:свободный, освобождать
+loss:потеря
+loud:громкий
+love:любовь
+low:низкий
+machine:машина
+make:делать, сделать, заставлять
+male:мужской, мужчина
+man:человек
+manager:менеджер
+map:карта
+mark:марка
+market:рынок
+married:женатый, замужем
+mass:масса
+match:спичка, сделки, соответствовать
+material:материал
+may:мочь
+meal:еда
+measure:мера, измерять
+meat:мясо
+medical:медицинский
+meeting:встреча
+memory:память
+metal:металл
+middle:средний, середина
+military:военный
+milk:молоко
+mind:ум, возражать
+mine:мой, месторождение, мина
+minute:минута
+mist:туман
+mixed:перемешанный
+money:деньги
+monkey:обезьяна
+month:месяц
+moon:луна
+morning:утро
+mother:мать
+motion:двигаться, движение, жест
+mountain:гора, горный
+mouth:рот, жевать
+move:двигать, шаг, движение
+much:много
+muscle:мускул
+music:музыка
+nail:ноготь
+name:имя
+narrow:узкий, сужаться
+nation:нация
+natural:натуральный
+near:рядом, около
+necessary:необходимый
+neck:шея, обниматься
+need:потребность, требоваться
+needle:игла
+nerve:нерв
+net:чистый, сеть
+new:новый
+news:новости
+night:ночь
+no:никакой, нет
+noise:шум
+normal:нормальный
+north:север
+nose:нос
+not:не
+note:примечание, отмечать
+now:теперь, сейчас
+number:число, номер
+nut:орех
+observation:наблюдение
+of:из, о, от
+off:прочь, от
+offer:предложение, предлагать
+office:офис
+oil:масло
+old:старый
+on:на
+only:только
+open:открытый, открывать
+operation:операция, действие
+opinion:мнение
+opposite:напротив, противоположный
+or:или
+orange:апельсин, оранжевый
+order:заказ, заказывать, приказывать
+organization:организация
+ornament:украшение, украшать
+other:другой
+out:вне, снаружи
+oven:духовка, печь
+over:по
+owner:владелец
+page:страница
+pain:боль, причинять боль
+paint:краска, рисовать, красить
+paper:бумага
+parallel:параллельный, находить что-либо подобное
+parcel:пакет, распределять
+part:часть, отделять, разделяться
+past:мимо, прошлый
+paste:приклеивать, паста
+payment:оплата
+peace:мир
+pen:ручка
+pencil:карандаш
+person:персона
+physical:физический
+picture:картина
+pig:свинья
+pin:булавка, прикреплять
+pipe:труба
+place:размещать, помещать, занимать место, место
+plane:самолёт
+plant:завод, растение, прививать, сеять
+plate:пластина
+play:играть
+please:пожалуйста
+pleasure:удовольствие
+plough:плуг
+pocket:карман, присваивать
+point:пункт, точка, указывать
+poison:яд, отравлять
+polish:полировать
+political:политический
+poor:бедный, плохой, слабый
+porter:швейцар,носильщик
+position:помещать, позиция
+possible:возможный
+pot:горшок
+potato:картофель
+powder:порошок
+power:сила, власть
+present:существующий, подарок
+price:цена
+print:печатать
+prison:тюрьма
+private:личный, приватный
+probable:вероятный
+process:обрабатывать, процесс
+produce:продукт, производить
+profit:прибыль, получать прибыль
+property:свойства
+prose:проза
+protest:возражать, протест
+public:публичный
+pull:напряжение, тянуть
+pump:насос, качать
+punishment:наказание
+purpose:намереваться, цель
+push:толчок, подталкивать
+put:помещать
+quality:качество, качественный
+question:вопрос
+quick:быстрый
+quiet:тихий, успокаивать
+quite:весьма
+rail:рельс, перевозить поездом
+rain:дождь
+range:диапазон, располагаться
+rat:крыса
+rate:норма,разряд
+ray:луч
+reaction:реакция
+reading:чтение
+ready:готовый, готов
+reason:рассуждать, причина, разум
+receipt:квитанция
+record:рекордный, отчёт, делать запись
+red:красный
+regret:сожаление, сожалеть
+regular:регулярный
+relation:отношение
+religion:религия
+representative:представитель
+request:запрос, просить
+respect:уважение, уважать
+responsible:ответственный
+rest:отдых, отдыхать, оставаться
+reward:награда, вознаграждать
+rhythm:ритм
+rice:рис
+right:верный, право
+ring:кольцо, звонить
+river:река
+road:дорога
+rod:прут
+roll:рулон, ведомость, катиться, въезжать
+roof:крыша
+room:комната
+root:корень
+rough:грубый
+round:вокруг, круглый, раунд
+rub:протирать, тереться
+rule:правило
+run:бег, бегать
+sad:расстроенный
+safe:безопасный
+sail:парус
+salt:соль, солить
+same:то же самое
+sand:песок
+say:говорить
+scale:измерять, масштаб
+school:школа
+science:наука
+scissors:ножницы
+screw:винт
+sea:море
+seat:сиденье, усаживать, место
+second:секунда, второй
+secret:секретный
+secretary:секретарь
+see:видеть
+seed:семя
+seem:казаться, представляться
+selection:выбор
+self:сам
+send:посылать
+sense:чувство, значения, смысл, ощущать
+separate:отдельный, отделять
+serious:серьёзный
+servant:слуга
+sex:секс, пол
+shade:оттенок,тень, заштриховывать
+shake:встряска, встряхивать, дрожать, потрясать
+shame:позор, позорить
+sharp:острый
+sheep:овцы
+shelf:полка
+ship:корабль
+shirt:рубашка
+shock:шок, потрясать
+shoe:ботинок
+short:короткий
+shut:закрыть
+side:сторона, примыкать
+sign:знак, признак, подписывать
+silk:шёлк
+silver:серебро
+simple:простой
+sister:сестра
+size:размер
+skin:кожа, очищать
+skirt:юбка
+sky:небо
+sleep:спать
+slip:промах, бланк, подсовывать, скользить
+slope:наклон, клониться
+slow:медленный
+small:маленький
+smash:удар, разбиваться
+smell:запах, пахнуть
+smile:улыбка, улыбаться
+smoke:дым, курить
+smooth:гладкий, мягкий, приглаживать
+snake:змея
+sneeze:чиханье, чихать
+snow:снег
+so:так
+soap:мыло, мылить
+society:общество
+sock:носок
+soft:мягкий
+solid:твёрдый, солидный
+some:некоторый, немного
+son:сын
+song:песня
+sort:вид, сортировать
+sound:звук
+soup:суп
+south:юг
+space:пространство, космос
+spade:лопата
+special:специальный
+sponge:губка
+spoon:ложка
+spring:весна
+square:квадрат
+stage:стадия, сцена, организовывать
+stamp:печать, марка, отпечатывать
+star:звезда
+start:начинать
+statement:утверждение
+station:станция
+steam:пар, париться, двигаться
+steel:сталь
+stem:стебель, происходить
+step:шаг, шагать
+stick:палка, прикреплять
+sticky:липкий
+stiff:жесткий
+still:все еще
+stitch:стежок, сшивать
+stocking:снабжать
+stomach:живот, смелость, переваривать
+stone:камень
+stop:останавливаться, остановка
+store:магазин, запас
+story:история
+straight:прямой
+strange:странный
+street:улица
+stretch:отрезки, протягивать, простираться
+strong:сильный
+structure:структура
+substance:вещество, сущность
+such:такой, таким образом
+sudden:внезапный
+sugar:сахар
+suggestion:предложение, предположение
+summer:лето
+sun:солнце
+support:поддержка, поддерживать
+surprise:сюрприз
+sweet:сладкий
+swim:плаванье, плавать
+system:система
+table:стол
+tail:хвост, выслеживать
+take:брать, взять
+talk:разговор, говорить
+tall:высокий
+taste:вкус, испытывать
+tax:налог, облагать налогом
+teaching:обучение
+tendency:тенденция
+test:проверять, тест
+than:чем
+that:что
+the
+then:тогда
+theory:теория
+there:там, туда
+thick:толстый, густой
+thin:худой, тонкий, жидкий
+thing:вещь
+this:это, этот
+though:хотя
+thought:мысль
+thread:нить, пронизывать
+throat:горло
+through:через
+thumb:листать, большой палец
+thunder:гром, греметь
+ticket:билет
+tight:трудный
+till:пока, до
+time:время
+tin:олово,консервная банка
+tired:усталый
+to:к, до, в
+toe:палец ноги
+together:вместе
+tomorrow:завтра
+tongue:язык
+tooth:зуб
+top:возглавлять, вершина, главный
+touch:прикосновение, касаться
+town:город
+trade:торговля, обменивать
+train:поезд
+transport:транспорт, транспортировать
+tray:поднос
+tree:дерево
+trick:уловка, обманывать
+trouble:проблема, беспокоить
+trousers:брюки
+true:правда, правдивый
+turn:поворот, поворачивать
+twist:завихрение, крутить
+umbrella:зонт
+under:под
+unit:единица
+up:вверх
+use:использование, использовать
+value:ценность, оценивать
+verse:стих
+very:очень
+vessel:судно, сосуд
+view:вид, взгляд, рассматривать
+violent:сильный, жестокий
+voice:голос, высказывать
+waiting:ожидание
+walk:ходьба
+wall:стена
+war:война
+warm:теплый, нагревать
+wash:мытьё, стирать, чистить
+waste:ненужный, отходы, трата
+watch:часы
+water:вода
+wave:волна
+wax:воск, натирать воском
+way:путь
+weather:погода
+week:неделя
+weight:вес, нагружать
+well:хорошо, намного
+west:запад
+wet:влажный
+wheel:колесо, вертеть
+when:когда
+where:где, куда, откуда
+while:в то время как
+whip:кнут, хлестать
+whistle:свист, свистеть
+white:белый
+who:кто
+why:почему
+wide:широкий
+will:быть хотеть
+wind:ветер
+window:окно
+wine:вино
+wing:крыло
+winter:зима, зимовать
+wire:провод
+wise:мудрый
+with:с
+woman:женщина
+wood:лес
+wool:шерсть
+word:слово
+work:работа, работать
+worm:червь
+wound:проветривать, рана, ранить
+writing:письмо
+wrong:неправильный, несправедливость
+year:год
+yellow:жёлтый
+yes:да
+yesterday:вчера
+you:ты, вы
+young:молодой
